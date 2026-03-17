@@ -174,6 +174,6 @@ class ZenithTest {
 
     @Test
     void terraform() {
-        checkFileSize(70_000L, "org.jenkinsci.plugins.terraform.TerraformInstaller.json");
+        checkFileSize(9_700_000L, "org.jenkinsci.plugins.terraform.TerraformInstaller.json");
     }
 }
