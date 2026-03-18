@@ -12,8 +12,7 @@ fi
 for f in [a-z]*.groovy
 do
     echo "= Crawler '$f':"
-    groovy -Dgrape.config=./grapeConfig.xml ./lib/runner.groovy "$f" \
-      || true # Hide failures and allow all generators to run
+    groovy -Dgrape.config=./grapeConfig.xml ./lib/runner.groovy "$f"
 done
 
 # Run a sanity test of the outputs

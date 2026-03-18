@@ -4,13 +4,24 @@ import static org.junit.Assert.assertTrue;
 
 import java.io.File;
 import org.junit.Ignore;
+import org.junit.Rule;
 import org.junit.Test;
+import org.junit.rules.TestRule;
+import org.junit.rules.TestWatcher;
 
 /**
  * Test to be run after all installer metadata has been generated.
  * Sanity checks for the installer metadata.
  */
 class ZenithTest {
+
+    @Rule
+    public TestRule watchman = [failed: {e, d ->
+                println d
+                e.printStackTrace()
+                System.exit(1)
+                }
+        ] as TestWatcher; // System.exit(1) if any test fails
 
     void checkFileSize(long minimumSize, String fileName) {
         File dataFile = new File("target/" + fileName);
@@ -19,7 +30,7 @@ class ZenithTest {
         long actualSize = dataFile.length();
         assertTrue(
                 "Size of target/" + fileName + " was " + actualSize + ", less than minimum " + minimumSize,
-                actualSize > minimumSize,
+                actualSize >= minimumSize,
                 );
     }
 
@@ -174,6 +185,6 @@ class ZenithTest {
 
     @Test
     void terraform() {
-        checkFileSize(70_000L, "org.jenkinsci.plugins.terraform.TerraformInstaller.json");
+        checkFileSize(700_000L, "org.jenkinsci.plugins.terraform.TerraformInstaller.json");
     }
 }
