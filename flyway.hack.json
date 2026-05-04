@@ -1,0 +1,5067 @@
+{"list": [
+    {
+    "id": "11.8.2nojre",
+    "name": "11.8.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.2/flyway-commandline-11.8.2.tar.gz"
+  },
+    {
+    "id": "11.8.2_windows",
+    "name": "11.8.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.2/flyway-commandline-11.8.2-windows-x64.zip"
+  },
+    {
+    "id": "11.8.2_macosx",
+    "name": "11.8.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.2/flyway-commandline-11.8.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.8.2_linux",
+    "name": "11.8.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.2/flyway-commandline-11.8.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.8.1nojre",
+    "name": "11.8.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.1/flyway-commandline-11.8.1.tar.gz"
+  },
+    {
+    "id": "11.8.1_windows",
+    "name": "11.8.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.1/flyway-commandline-11.8.1-windows-x64.zip"
+  },
+    {
+    "id": "11.8.1_macosx",
+    "name": "11.8.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.1/flyway-commandline-11.8.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.8.1_linux",
+    "name": "11.8.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.1/flyway-commandline-11.8.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.8.0nojre",
+    "name": "11.8.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.0/flyway-commandline-11.8.0.tar.gz"
+  },
+    {
+    "id": "11.8.0_windows",
+    "name": "11.8.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.0/flyway-commandline-11.8.0-windows-x64.zip"
+  },
+    {
+    "id": "11.8.0_macosx",
+    "name": "11.8.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.0/flyway-commandline-11.8.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.8.0_linux",
+    "name": "11.8.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.8.0/flyway-commandline-11.8.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.7.2nojre",
+    "name": "11.7.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.2/flyway-commandline-11.7.2.tar.gz"
+  },
+    {
+    "id": "11.7.2_windows",
+    "name": "11.7.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.2/flyway-commandline-11.7.2-windows-x64.zip"
+  },
+    {
+    "id": "11.7.2_macosx",
+    "name": "11.7.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.2/flyway-commandline-11.7.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.7.2_linux",
+    "name": "11.7.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.2/flyway-commandline-11.7.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.7.1nojre",
+    "name": "11.7.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.1/flyway-commandline-11.7.1.tar.gz"
+  },
+    {
+    "id": "11.7.1_windows",
+    "name": "11.7.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.1/flyway-commandline-11.7.1-windows-x64.zip"
+  },
+    {
+    "id": "11.7.1_macosx",
+    "name": "11.7.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.1/flyway-commandline-11.7.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.7.1_linux",
+    "name": "11.7.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.1/flyway-commandline-11.7.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.7.0nojre",
+    "name": "11.7.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.0/flyway-commandline-11.7.0.tar.gz"
+  },
+    {
+    "id": "11.7.0_windows",
+    "name": "11.7.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.0/flyway-commandline-11.7.0-windows-x64.zip"
+  },
+    {
+    "id": "11.7.0_macosx",
+    "name": "11.7.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.0/flyway-commandline-11.7.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.7.0_linux",
+    "name": "11.7.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.7.0/flyway-commandline-11.7.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.6.0nojre",
+    "name": "11.6.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.6.0/flyway-commandline-11.6.0.tar.gz"
+  },
+    {
+    "id": "11.6.0_windows",
+    "name": "11.6.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.6.0/flyway-commandline-11.6.0-windows-x64.zip"
+  },
+    {
+    "id": "11.6.0_macosx",
+    "name": "11.6.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.6.0/flyway-commandline-11.6.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.6.0_linux",
+    "name": "11.6.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.6.0/flyway-commandline-11.6.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.5.0nojre",
+    "name": "11.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.5.0/flyway-commandline-11.5.0.tar.gz"
+  },
+    {
+    "id": "11.5.0_windows",
+    "name": "11.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.5.0/flyway-commandline-11.5.0-windows-x64.zip"
+  },
+    {
+    "id": "11.5.0_macosx",
+    "name": "11.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.5.0/flyway-commandline-11.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.5.0_linux",
+    "name": "11.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.5.0/flyway-commandline-11.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.4.1nojre",
+    "name": "11.4.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.1/flyway-commandline-11.4.1.tar.gz"
+  },
+    {
+    "id": "11.4.1_windows",
+    "name": "11.4.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.1/flyway-commandline-11.4.1-windows-x64.zip"
+  },
+    {
+    "id": "11.4.1_macosx",
+    "name": "11.4.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.1/flyway-commandline-11.4.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.4.1_linux",
+    "name": "11.4.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.1/flyway-commandline-11.4.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.4.0nojre",
+    "name": "11.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.0/flyway-commandline-11.4.0.tar.gz"
+  },
+    {
+    "id": "11.4.0_windows",
+    "name": "11.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.0/flyway-commandline-11.4.0-windows-x64.zip"
+  },
+    {
+    "id": "11.4.0_macosx",
+    "name": "11.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.0/flyway-commandline-11.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.4.0_linux",
+    "name": "11.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.4.0/flyway-commandline-11.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.3.4nojre",
+    "name": "11.3.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.4/flyway-commandline-11.3.4.tar.gz"
+  },
+    {
+    "id": "11.3.4_windows",
+    "name": "11.3.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.4/flyway-commandline-11.3.4-windows-x64.zip"
+  },
+    {
+    "id": "11.3.4_macosx",
+    "name": "11.3.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.4/flyway-commandline-11.3.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.3.4_linux",
+    "name": "11.3.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.4/flyway-commandline-11.3.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.3.3nojre",
+    "name": "11.3.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.3/flyway-commandline-11.3.3.tar.gz"
+  },
+    {
+    "id": "11.3.3_windows",
+    "name": "11.3.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.3/flyway-commandline-11.3.3-windows-x64.zip"
+  },
+    {
+    "id": "11.3.3_macosx",
+    "name": "11.3.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.3/flyway-commandline-11.3.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.3.3_linux",
+    "name": "11.3.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.3/flyway-commandline-11.3.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.3.2nojre",
+    "name": "11.3.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.2/flyway-commandline-11.3.2.tar.gz"
+  },
+    {
+    "id": "11.3.2_windows",
+    "name": "11.3.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.2/flyway-commandline-11.3.2-windows-x64.zip"
+  },
+    {
+    "id": "11.3.2_macosx",
+    "name": "11.3.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.2/flyway-commandline-11.3.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.3.2_linux",
+    "name": "11.3.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.2/flyway-commandline-11.3.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.3.1nojre",
+    "name": "11.3.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.1/flyway-commandline-11.3.1.tar.gz"
+  },
+    {
+    "id": "11.3.1_windows",
+    "name": "11.3.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.1/flyway-commandline-11.3.1-windows-x64.zip"
+  },
+    {
+    "id": "11.3.1_macosx",
+    "name": "11.3.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.1/flyway-commandline-11.3.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.3.1_linux",
+    "name": "11.3.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.1/flyway-commandline-11.3.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.3.0nojre",
+    "name": "11.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.0/flyway-commandline-11.3.0.tar.gz"
+  },
+    {
+    "id": "11.3.0_windows",
+    "name": "11.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.0/flyway-commandline-11.3.0-windows-x64.zip"
+  },
+    {
+    "id": "11.3.0_macosx",
+    "name": "11.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.0/flyway-commandline-11.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.3.0_linux",
+    "name": "11.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.3.0/flyway-commandline-11.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.2.0nojre",
+    "name": "11.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.2.0/flyway-commandline-11.2.0.tar.gz"
+  },
+    {
+    "id": "11.2.0_windows",
+    "name": "11.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.2.0/flyway-commandline-11.2.0-windows-x64.zip"
+  },
+    {
+    "id": "11.2.0_macosx",
+    "name": "11.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.2.0/flyway-commandline-11.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.2.0_linux",
+    "name": "11.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.2.0/flyway-commandline-11.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.1.1nojre",
+    "name": "11.1.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.1/flyway-commandline-11.1.1.tar.gz"
+  },
+    {
+    "id": "11.1.1_windows",
+    "name": "11.1.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.1/flyway-commandline-11.1.1-windows-x64.zip"
+  },
+    {
+    "id": "11.1.1_macosx",
+    "name": "11.1.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.1/flyway-commandline-11.1.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.1.1_linux",
+    "name": "11.1.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.1/flyway-commandline-11.1.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.1.0nojre",
+    "name": "11.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.0/flyway-commandline-11.1.0.tar.gz"
+  },
+    {
+    "id": "11.1.0_windows",
+    "name": "11.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.0/flyway-commandline-11.1.0-windows-x64.zip"
+  },
+    {
+    "id": "11.1.0_macosx",
+    "name": "11.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.0/flyway-commandline-11.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.1.0_linux",
+    "name": "11.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.1.0/flyway-commandline-11.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.0.1nojre",
+    "name": "11.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.1/flyway-commandline-11.0.1.tar.gz"
+  },
+    {
+    "id": "11.0.1_windows",
+    "name": "11.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.1/flyway-commandline-11.0.1-windows-x64.zip"
+  },
+    {
+    "id": "11.0.1_macosx",
+    "name": "11.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.1/flyway-commandline-11.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.0.1_linux",
+    "name": "11.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.1/flyway-commandline-11.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "11.0.0nojre",
+    "name": "11.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.0/flyway-commandline-11.0.0.tar.gz"
+  },
+    {
+    "id": "11.0.0_windows",
+    "name": "11.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.0/flyway-commandline-11.0.0-windows-x64.zip"
+  },
+    {
+    "id": "11.0.0_macosx",
+    "name": "11.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.0/flyway-commandline-11.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "11.0.0_linux",
+    "name": "11.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/11.0.0/flyway-commandline-11.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.22.0nojre",
+    "name": "10.22.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.22.0/flyway-commandline-10.22.0.tar.gz"
+  },
+    {
+    "id": "10.22.0_windows",
+    "name": "10.22.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.22.0/flyway-commandline-10.22.0-windows-x64.zip"
+  },
+    {
+    "id": "10.22.0_macosx",
+    "name": "10.22.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.22.0/flyway-commandline-10.22.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.22.0_linux",
+    "name": "10.22.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.22.0/flyway-commandline-10.22.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.21.0nojre",
+    "name": "10.21.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.21.0/flyway-commandline-10.21.0.tar.gz"
+  },
+    {
+    "id": "10.21.0_windows",
+    "name": "10.21.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.21.0/flyway-commandline-10.21.0-windows-x64.zip"
+  },
+    {
+    "id": "10.21.0_macosx",
+    "name": "10.21.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.21.0/flyway-commandline-10.21.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.21.0_linux",
+    "name": "10.21.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.21.0/flyway-commandline-10.21.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.20.1nojre",
+    "name": "10.20.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.1/flyway-commandline-10.20.1.tar.gz"
+  },
+    {
+    "id": "10.20.1_windows",
+    "name": "10.20.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.1/flyway-commandline-10.20.1-windows-x64.zip"
+  },
+    {
+    "id": "10.20.1_macosx",
+    "name": "10.20.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.1/flyway-commandline-10.20.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.20.1_linux",
+    "name": "10.20.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.1/flyway-commandline-10.20.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.20.0nojre",
+    "name": "10.20.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.0/flyway-commandline-10.20.0.tar.gz"
+  },
+    {
+    "id": "10.20.0_windows",
+    "name": "10.20.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.0/flyway-commandline-10.20.0-windows-x64.zip"
+  },
+    {
+    "id": "10.20.0_macosx",
+    "name": "10.20.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.0/flyway-commandline-10.20.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.20.0_linux",
+    "name": "10.20.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.20.0/flyway-commandline-10.20.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.19.0nojre",
+    "name": "10.19.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.19.0/flyway-commandline-10.19.0.tar.gz"
+  },
+    {
+    "id": "10.19.0_windows",
+    "name": "10.19.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.19.0/flyway-commandline-10.19.0-windows-x64.zip"
+  },
+    {
+    "id": "10.19.0_macosx",
+    "name": "10.19.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.19.0/flyway-commandline-10.19.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.19.0_linux",
+    "name": "10.19.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.19.0/flyway-commandline-10.19.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.18.2nojre",
+    "name": "10.18.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.2/flyway-commandline-10.18.2.tar.gz"
+  },
+    {
+    "id": "10.18.2_windows",
+    "name": "10.18.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.2/flyway-commandline-10.18.2-windows-x64.zip"
+  },
+    {
+    "id": "10.18.2_macosx",
+    "name": "10.18.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.2/flyway-commandline-10.18.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.18.2_linux",
+    "name": "10.18.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.2/flyway-commandline-10.18.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.18.1nojre",
+    "name": "10.18.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.1/flyway-commandline-10.18.1.tar.gz"
+  },
+    {
+    "id": "10.18.1_windows",
+    "name": "10.18.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.1/flyway-commandline-10.18.1-windows-x64.zip"
+  },
+    {
+    "id": "10.18.1_macosx",
+    "name": "10.18.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.1/flyway-commandline-10.18.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.18.1_linux",
+    "name": "10.18.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.1/flyway-commandline-10.18.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.18.0nojre",
+    "name": "10.18.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.0/flyway-commandline-10.18.0.tar.gz"
+  },
+    {
+    "id": "10.18.0_windows",
+    "name": "10.18.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.0/flyway-commandline-10.18.0-windows-x64.zip"
+  },
+    {
+    "id": "10.18.0_macosx",
+    "name": "10.18.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.0/flyway-commandline-10.18.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.18.0_linux",
+    "name": "10.18.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.18.0/flyway-commandline-10.18.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.17.3nojre",
+    "name": "10.17.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.3/flyway-commandline-10.17.3.tar.gz"
+  },
+    {
+    "id": "10.17.3_windows",
+    "name": "10.17.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.3/flyway-commandline-10.17.3-windows-x64.zip"
+  },
+    {
+    "id": "10.17.3_macosx",
+    "name": "10.17.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.3/flyway-commandline-10.17.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.17.3_linux",
+    "name": "10.17.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.3/flyway-commandline-10.17.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.17.2nojre",
+    "name": "10.17.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.2/flyway-commandline-10.17.2.tar.gz"
+  },
+    {
+    "id": "10.17.2_windows",
+    "name": "10.17.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.2/flyway-commandline-10.17.2-windows-x64.zip"
+  },
+    {
+    "id": "10.17.2_macosx",
+    "name": "10.17.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.2/flyway-commandline-10.17.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.17.2_linux",
+    "name": "10.17.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.2/flyway-commandline-10.17.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.17.1nojre",
+    "name": "10.17.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.1/flyway-commandline-10.17.1.tar.gz"
+  },
+    {
+    "id": "10.17.1_windows",
+    "name": "10.17.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.1/flyway-commandline-10.17.1-windows-x64.zip"
+  },
+    {
+    "id": "10.17.1_macosx",
+    "name": "10.17.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.1/flyway-commandline-10.17.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.17.1_linux",
+    "name": "10.17.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.1/flyway-commandline-10.17.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.17.0nojre",
+    "name": "10.17.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.0/flyway-commandline-10.17.0.tar.gz"
+  },
+    {
+    "id": "10.17.0_windows",
+    "name": "10.17.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.0/flyway-commandline-10.17.0-windows-x64.zip"
+  },
+    {
+    "id": "10.17.0_macosx",
+    "name": "10.17.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.0/flyway-commandline-10.17.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.17.0_linux",
+    "name": "10.17.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.17.0/flyway-commandline-10.17.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.16.0nojre",
+    "name": "10.16.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.16.0/flyway-commandline-10.16.0.tar.gz"
+  },
+    {
+    "id": "10.16.0_windows",
+    "name": "10.16.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.16.0/flyway-commandline-10.16.0-windows-x64.zip"
+  },
+    {
+    "id": "10.16.0_macosx",
+    "name": "10.16.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.16.0/flyway-commandline-10.16.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.16.0_linux",
+    "name": "10.16.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.16.0/flyway-commandline-10.16.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.15.2nojre",
+    "name": "10.15.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.2/flyway-commandline-10.15.2.tar.gz"
+  },
+    {
+    "id": "10.15.2_windows",
+    "name": "10.15.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.2/flyway-commandline-10.15.2-windows-x64.zip"
+  },
+    {
+    "id": "10.15.2_macosx",
+    "name": "10.15.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.2/flyway-commandline-10.15.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.15.2_linux",
+    "name": "10.15.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.2/flyway-commandline-10.15.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.15.0nojre",
+    "name": "10.15.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.0/flyway-commandline-10.15.0.tar.gz"
+  },
+    {
+    "id": "10.15.0_windows",
+    "name": "10.15.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.0/flyway-commandline-10.15.0-windows-x64.zip"
+  },
+    {
+    "id": "10.15.0_macosx",
+    "name": "10.15.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.0/flyway-commandline-10.15.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.15.0_linux",
+    "name": "10.15.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.15.0/flyway-commandline-10.15.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.14.0nojre",
+    "name": "10.14.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.14.0/flyway-commandline-10.14.0.tar.gz"
+  },
+    {
+    "id": "10.14.0_windows",
+    "name": "10.14.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.14.0/flyway-commandline-10.14.0-windows-x64.zip"
+  },
+    {
+    "id": "10.14.0_macosx",
+    "name": "10.14.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.14.0/flyway-commandline-10.14.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.14.0_linux",
+    "name": "10.14.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.14.0/flyway-commandline-10.14.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.13.0nojre",
+    "name": "10.13.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.13.0/flyway-commandline-10.13.0.tar.gz"
+  },
+    {
+    "id": "10.13.0_windows",
+    "name": "10.13.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.13.0/flyway-commandline-10.13.0-windows-x64.zip"
+  },
+    {
+    "id": "10.13.0_macosx",
+    "name": "10.13.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.13.0/flyway-commandline-10.13.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.13.0_linux",
+    "name": "10.13.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.13.0/flyway-commandline-10.13.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.12.0nojre",
+    "name": "10.12.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.12.0/flyway-commandline-10.12.0.tar.gz"
+  },
+    {
+    "id": "10.12.0_windows",
+    "name": "10.12.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.12.0/flyway-commandline-10.12.0-windows-x64.zip"
+  },
+    {
+    "id": "10.12.0_macosx",
+    "name": "10.12.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.12.0/flyway-commandline-10.12.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.12.0_linux",
+    "name": "10.12.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.12.0/flyway-commandline-10.12.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.11.1nojre",
+    "name": "10.11.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.1/flyway-commandline-10.11.1.tar.gz"
+  },
+    {
+    "id": "10.11.1_windows",
+    "name": "10.11.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.1/flyway-commandline-10.11.1-windows-x64.zip"
+  },
+    {
+    "id": "10.11.1_macosx",
+    "name": "10.11.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.1/flyway-commandline-10.11.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.11.1_linux",
+    "name": "10.11.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.1/flyway-commandline-10.11.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.11.0nojre",
+    "name": "10.11.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.0/flyway-commandline-10.11.0.tar.gz"
+  },
+    {
+    "id": "10.11.0_windows",
+    "name": "10.11.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.0/flyway-commandline-10.11.0-windows-x64.zip"
+  },
+    {
+    "id": "10.11.0_macosx",
+    "name": "10.11.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.0/flyway-commandline-10.11.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.11.0_linux",
+    "name": "10.11.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.11.0/flyway-commandline-10.11.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.10.0nojre",
+    "name": "10.10.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.10.0/flyway-commandline-10.10.0.tar.gz"
+  },
+    {
+    "id": "10.10.0_windows",
+    "name": "10.10.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.10.0/flyway-commandline-10.10.0-windows-x64.zip"
+  },
+    {
+    "id": "10.10.0_macosx",
+    "name": "10.10.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.10.0/flyway-commandline-10.10.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.10.0_linux",
+    "name": "10.10.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.10.0/flyway-commandline-10.10.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.9.1nojre",
+    "name": "10.9.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.1/flyway-commandline-10.9.1.tar.gz"
+  },
+    {
+    "id": "10.9.1_windows",
+    "name": "10.9.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.1/flyway-commandline-10.9.1-windows-x64.zip"
+  },
+    {
+    "id": "10.9.1_macosx",
+    "name": "10.9.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.1/flyway-commandline-10.9.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.9.1_linux",
+    "name": "10.9.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.1/flyway-commandline-10.9.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.9.0nojre",
+    "name": "10.9.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.0/flyway-commandline-10.9.0.tar.gz"
+  },
+    {
+    "id": "10.9.0_windows",
+    "name": "10.9.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.0/flyway-commandline-10.9.0-windows-x64.zip"
+  },
+    {
+    "id": "10.9.0_macosx",
+    "name": "10.9.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.0/flyway-commandline-10.9.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.9.0_linux",
+    "name": "10.9.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.9.0/flyway-commandline-10.9.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.8.1nojre",
+    "name": "10.8.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.1/flyway-commandline-10.8.1.tar.gz"
+  },
+    {
+    "id": "10.8.1_windows",
+    "name": "10.8.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.1/flyway-commandline-10.8.1-windows-x64.zip"
+  },
+    {
+    "id": "10.8.1_macosx",
+    "name": "10.8.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.1/flyway-commandline-10.8.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.8.1_linux",
+    "name": "10.8.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.1/flyway-commandline-10.8.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.8.0nojre",
+    "name": "10.8.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.0/flyway-commandline-10.8.0.tar.gz"
+  },
+    {
+    "id": "10.8.0_windows",
+    "name": "10.8.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.0/flyway-commandline-10.8.0-windows-x64.zip"
+  },
+    {
+    "id": "10.8.0_macosx",
+    "name": "10.8.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.0/flyway-commandline-10.8.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.8.0_linux",
+    "name": "10.8.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.8.0/flyway-commandline-10.8.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.7.2nojre",
+    "name": "10.7.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.2/flyway-commandline-10.7.2.tar.gz"
+  },
+    {
+    "id": "10.7.2_windows",
+    "name": "10.7.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.2/flyway-commandline-10.7.2-windows-x64.zip"
+  },
+    {
+    "id": "10.7.2_macosx",
+    "name": "10.7.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.2/flyway-commandline-10.7.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.7.2_linux",
+    "name": "10.7.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.2/flyway-commandline-10.7.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.7.1nojre",
+    "name": "10.7.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.1/flyway-commandline-10.7.1.tar.gz"
+  },
+    {
+    "id": "10.7.1_windows",
+    "name": "10.7.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.1/flyway-commandline-10.7.1-windows-x64.zip"
+  },
+    {
+    "id": "10.7.1_macosx",
+    "name": "10.7.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.1/flyway-commandline-10.7.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.7.1_linux",
+    "name": "10.7.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.1/flyway-commandline-10.7.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.7.0nojre",
+    "name": "10.7.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.0/flyway-commandline-10.7.0.tar.gz"
+  },
+    {
+    "id": "10.7.0_windows",
+    "name": "10.7.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.0/flyway-commandline-10.7.0-windows-x64.zip"
+  },
+    {
+    "id": "10.7.0_macosx",
+    "name": "10.7.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.0/flyway-commandline-10.7.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.7.0_linux",
+    "name": "10.7.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.7.0/flyway-commandline-10.7.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.6.0nojre",
+    "name": "10.6.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.6.0/flyway-commandline-10.6.0.tar.gz"
+  },
+    {
+    "id": "10.6.0_windows",
+    "name": "10.6.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.6.0/flyway-commandline-10.6.0-windows-x64.zip"
+  },
+    {
+    "id": "10.6.0_macosx",
+    "name": "10.6.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.6.0/flyway-commandline-10.6.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.6.0_linux",
+    "name": "10.6.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.6.0/flyway-commandline-10.6.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.5.0nojre",
+    "name": "10.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.5.0/flyway-commandline-10.5.0.tar.gz"
+  },
+    {
+    "id": "10.5.0_windows",
+    "name": "10.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.5.0/flyway-commandline-10.5.0-windows-x64.zip"
+  },
+    {
+    "id": "10.5.0_macosx",
+    "name": "10.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.5.0/flyway-commandline-10.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.5.0_linux",
+    "name": "10.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.5.0/flyway-commandline-10.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.4.1nojre",
+    "name": "10.4.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.1/flyway-commandline-10.4.1.tar.gz"
+  },
+    {
+    "id": "10.4.1_windows",
+    "name": "10.4.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.1/flyway-commandline-10.4.1-windows-x64.zip"
+  },
+    {
+    "id": "10.4.1_macosx",
+    "name": "10.4.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.1/flyway-commandline-10.4.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.4.1_linux",
+    "name": "10.4.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.1/flyway-commandline-10.4.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.4.0nojre",
+    "name": "10.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.0/flyway-commandline-10.4.0.tar.gz"
+  },
+    {
+    "id": "10.4.0_windows",
+    "name": "10.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.0/flyway-commandline-10.4.0-windows-x64.zip"
+  },
+    {
+    "id": "10.4.0_macosx",
+    "name": "10.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.0/flyway-commandline-10.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.4.0_linux",
+    "name": "10.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.4.0/flyway-commandline-10.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.3.0nojre",
+    "name": "10.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.3.0/flyway-commandline-10.3.0.tar.gz"
+  },
+    {
+    "id": "10.3.0_windows",
+    "name": "10.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.3.0/flyway-commandline-10.3.0-windows-x64.zip"
+  },
+    {
+    "id": "10.3.0_macosx",
+    "name": "10.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.3.0/flyway-commandline-10.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.3.0_linux",
+    "name": "10.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.3.0/flyway-commandline-10.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.2.0nojre",
+    "name": "10.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.2.0/flyway-commandline-10.2.0.tar.gz"
+  },
+    {
+    "id": "10.2.0_windows",
+    "name": "10.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.2.0/flyway-commandline-10.2.0-windows-x64.zip"
+  },
+    {
+    "id": "10.2.0_macosx",
+    "name": "10.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.2.0/flyway-commandline-10.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.2.0_linux",
+    "name": "10.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.2.0/flyway-commandline-10.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.1.0nojre",
+    "name": "10.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.1.0/flyway-commandline-10.1.0.tar.gz"
+  },
+    {
+    "id": "10.1.0_windows",
+    "name": "10.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.1.0/flyway-commandline-10.1.0-windows-x64.zip"
+  },
+    {
+    "id": "10.1.0_macosx",
+    "name": "10.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.1.0/flyway-commandline-10.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.1.0_linux",
+    "name": "10.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.1.0/flyway-commandline-10.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.0.1nojre",
+    "name": "10.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.1/flyway-commandline-10.0.1.tar.gz"
+  },
+    {
+    "id": "10.0.1_windows",
+    "name": "10.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.1/flyway-commandline-10.0.1-windows-x64.zip"
+  },
+    {
+    "id": "10.0.1_macosx",
+    "name": "10.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.1/flyway-commandline-10.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.0.1_linux",
+    "name": "10.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.1/flyway-commandline-10.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "10.0.0nojre",
+    "name": "10.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.0/flyway-commandline-10.0.0.tar.gz"
+  },
+    {
+    "id": "10.0.0_windows",
+    "name": "10.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.0/flyway-commandline-10.0.0-windows-x64.zip"
+  },
+    {
+    "id": "10.0.0_macosx",
+    "name": "10.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.0/flyway-commandline-10.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "10.0.0_linux",
+    "name": "10.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/10.0.0/flyway-commandline-10.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.22.3nojre",
+    "name": "9.22.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.3/flyway-commandline-9.22.3.tar.gz"
+  },
+    {
+    "id": "9.22.3_windows",
+    "name": "9.22.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.3/flyway-commandline-9.22.3-windows-x64.zip"
+  },
+    {
+    "id": "9.22.3_macosx",
+    "name": "9.22.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.3/flyway-commandline-9.22.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.22.3_linux",
+    "name": "9.22.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.3/flyway-commandline-9.22.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.22.2nojre",
+    "name": "9.22.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.2/flyway-commandline-9.22.2.tar.gz"
+  },
+    {
+    "id": "9.22.2_windows",
+    "name": "9.22.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.2/flyway-commandline-9.22.2-windows-x64.zip"
+  },
+    {
+    "id": "9.22.2_macosx",
+    "name": "9.22.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.2/flyway-commandline-9.22.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.22.2_linux",
+    "name": "9.22.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.2/flyway-commandline-9.22.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.22.1nojre",
+    "name": "9.22.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.1/flyway-commandline-9.22.1.tar.gz"
+  },
+    {
+    "id": "9.22.1_windows",
+    "name": "9.22.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.1/flyway-commandline-9.22.1-windows-x64.zip"
+  },
+    {
+    "id": "9.22.1_macosx",
+    "name": "9.22.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.1/flyway-commandline-9.22.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.22.1_linux",
+    "name": "9.22.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.1/flyway-commandline-9.22.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.22.0nojre",
+    "name": "9.22.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.0/flyway-commandline-9.22.0.tar.gz"
+  },
+    {
+    "id": "9.22.0_windows",
+    "name": "9.22.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.0/flyway-commandline-9.22.0-windows-x64.zip"
+  },
+    {
+    "id": "9.22.0_macosx",
+    "name": "9.22.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.0/flyway-commandline-9.22.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.22.0_linux",
+    "name": "9.22.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.22.0/flyway-commandline-9.22.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.21.2nojre",
+    "name": "9.21.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.2/flyway-commandline-9.21.2.tar.gz"
+  },
+    {
+    "id": "9.21.2_windows",
+    "name": "9.21.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.2/flyway-commandline-9.21.2-windows-x64.zip"
+  },
+    {
+    "id": "9.21.2_macosx",
+    "name": "9.21.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.2/flyway-commandline-9.21.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.21.2_linux",
+    "name": "9.21.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.2/flyway-commandline-9.21.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.21.1nojre",
+    "name": "9.21.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.1/flyway-commandline-9.21.1.tar.gz"
+  },
+    {
+    "id": "9.21.1_windows",
+    "name": "9.21.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.1/flyway-commandline-9.21.1-windows-x64.zip"
+  },
+    {
+    "id": "9.21.1_macosx",
+    "name": "9.21.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.1/flyway-commandline-9.21.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.21.1_linux",
+    "name": "9.21.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.1/flyway-commandline-9.21.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.21.0nojre",
+    "name": "9.21.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.0/flyway-commandline-9.21.0.tar.gz"
+  },
+    {
+    "id": "9.21.0_windows",
+    "name": "9.21.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.0/flyway-commandline-9.21.0-windows-x64.zip"
+  },
+    {
+    "id": "9.21.0_macosx",
+    "name": "9.21.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.0/flyway-commandline-9.21.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.21.0_linux",
+    "name": "9.21.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.21.0/flyway-commandline-9.21.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.20.1nojre",
+    "name": "9.20.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.1/flyway-commandline-9.20.1.tar.gz"
+  },
+    {
+    "id": "9.20.1_windows",
+    "name": "9.20.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.1/flyway-commandline-9.20.1-windows-x64.zip"
+  },
+    {
+    "id": "9.20.1_macosx",
+    "name": "9.20.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.1/flyway-commandline-9.20.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.20.1_linux",
+    "name": "9.20.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.1/flyway-commandline-9.20.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.20.0nojre",
+    "name": "9.20.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.0/flyway-commandline-9.20.0.tar.gz"
+  },
+    {
+    "id": "9.20.0_windows",
+    "name": "9.20.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.0/flyway-commandline-9.20.0-windows-x64.zip"
+  },
+    {
+    "id": "9.20.0_macosx",
+    "name": "9.20.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.0/flyway-commandline-9.20.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.20.0_linux",
+    "name": "9.20.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.20.0/flyway-commandline-9.20.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.19.4nojre",
+    "name": "9.19.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.4/flyway-commandline-9.19.4.tar.gz"
+  },
+    {
+    "id": "9.19.4_windows",
+    "name": "9.19.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.4/flyway-commandline-9.19.4-windows-x64.zip"
+  },
+    {
+    "id": "9.19.4_macosx",
+    "name": "9.19.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.4/flyway-commandline-9.19.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.19.4_linux",
+    "name": "9.19.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.4/flyway-commandline-9.19.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.19.3nojre",
+    "name": "9.19.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.3/flyway-commandline-9.19.3.tar.gz"
+  },
+    {
+    "id": "9.19.3_windows",
+    "name": "9.19.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.3/flyway-commandline-9.19.3-windows-x64.zip"
+  },
+    {
+    "id": "9.19.3_macosx",
+    "name": "9.19.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.3/flyway-commandline-9.19.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.19.3_linux",
+    "name": "9.19.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.3/flyway-commandline-9.19.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.19.2nojre",
+    "name": "9.19.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.2/flyway-commandline-9.19.2.tar.gz"
+  },
+    {
+    "id": "9.19.2_windows",
+    "name": "9.19.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.2/flyway-commandline-9.19.2-windows-x64.zip"
+  },
+    {
+    "id": "9.19.2_macosx",
+    "name": "9.19.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.2/flyway-commandline-9.19.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.19.2_linux",
+    "name": "9.19.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.2/flyway-commandline-9.19.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.19.1nojre",
+    "name": "9.19.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.1/flyway-commandline-9.19.1.tar.gz"
+  },
+    {
+    "id": "9.19.1_windows",
+    "name": "9.19.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.1/flyway-commandline-9.19.1-windows-x64.zip"
+  },
+    {
+    "id": "9.19.1_macosx",
+    "name": "9.19.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.1/flyway-commandline-9.19.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.19.1_linux",
+    "name": "9.19.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.1/flyway-commandline-9.19.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.19.0nojre",
+    "name": "9.19.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.0/flyway-commandline-9.19.0.tar.gz"
+  },
+    {
+    "id": "9.19.0_windows",
+    "name": "9.19.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.0/flyway-commandline-9.19.0-windows-x64.zip"
+  },
+    {
+    "id": "9.19.0_macosx",
+    "name": "9.19.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.0/flyway-commandline-9.19.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.19.0_linux",
+    "name": "9.19.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.19.0/flyway-commandline-9.19.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.18.0nojre",
+    "name": "9.18.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.18.0/flyway-commandline-9.18.0.tar.gz"
+  },
+    {
+    "id": "9.18.0_windows",
+    "name": "9.18.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.18.0/flyway-commandline-9.18.0-windows-x64.zip"
+  },
+    {
+    "id": "9.18.0_macosx",
+    "name": "9.18.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.18.0/flyway-commandline-9.18.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.18.0_linux",
+    "name": "9.18.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.18.0/flyway-commandline-9.18.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.17.0nojre",
+    "name": "9.17.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.17.0/flyway-commandline-9.17.0.tar.gz"
+  },
+    {
+    "id": "9.17.0_windows",
+    "name": "9.17.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.17.0/flyway-commandline-9.17.0-windows-x64.zip"
+  },
+    {
+    "id": "9.17.0_macosx",
+    "name": "9.17.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.17.0/flyway-commandline-9.17.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.17.0_linux",
+    "name": "9.17.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.17.0/flyway-commandline-9.17.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.16.3nojre",
+    "name": "9.16.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.3/flyway-commandline-9.16.3.tar.gz"
+  },
+    {
+    "id": "9.16.3_windows",
+    "name": "9.16.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.3/flyway-commandline-9.16.3-windows-x64.zip"
+  },
+    {
+    "id": "9.16.3_macosx",
+    "name": "9.16.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.3/flyway-commandline-9.16.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.16.3_linux",
+    "name": "9.16.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.3/flyway-commandline-9.16.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.16.2nojre",
+    "name": "9.16.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.2/flyway-commandline-9.16.2.tar.gz"
+  },
+    {
+    "id": "9.16.2_windows",
+    "name": "9.16.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.2/flyway-commandline-9.16.2-windows-x64.zip"
+  },
+    {
+    "id": "9.16.2_macosx",
+    "name": "9.16.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.2/flyway-commandline-9.16.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.16.2_linux",
+    "name": "9.16.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.2/flyway-commandline-9.16.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.16.1nojre",
+    "name": "9.16.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.1/flyway-commandline-9.16.1.tar.gz"
+  },
+    {
+    "id": "9.16.1_windows",
+    "name": "9.16.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.1/flyway-commandline-9.16.1-windows-x64.zip"
+  },
+    {
+    "id": "9.16.1_macosx",
+    "name": "9.16.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.1/flyway-commandline-9.16.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.16.1_linux",
+    "name": "9.16.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.1/flyway-commandline-9.16.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.16.0nojre",
+    "name": "9.16.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.0/flyway-commandline-9.16.0.tar.gz"
+  },
+    {
+    "id": "9.16.0_windows",
+    "name": "9.16.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.0/flyway-commandline-9.16.0-windows-x64.zip"
+  },
+    {
+    "id": "9.16.0_macosx",
+    "name": "9.16.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.0/flyway-commandline-9.16.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.16.0_linux",
+    "name": "9.16.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.16.0/flyway-commandline-9.16.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.15.2nojre",
+    "name": "9.15.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.2/flyway-commandline-9.15.2.tar.gz"
+  },
+    {
+    "id": "9.15.2_windows",
+    "name": "9.15.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.2/flyway-commandline-9.15.2-windows-x64.zip"
+  },
+    {
+    "id": "9.15.2_macosx",
+    "name": "9.15.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.2/flyway-commandline-9.15.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.15.2_linux",
+    "name": "9.15.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.2/flyway-commandline-9.15.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.15.1nojre",
+    "name": "9.15.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.1/flyway-commandline-9.15.1.tar.gz"
+  },
+    {
+    "id": "9.15.1_windows",
+    "name": "9.15.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.1/flyway-commandline-9.15.1-windows-x64.zip"
+  },
+    {
+    "id": "9.15.1_macosx",
+    "name": "9.15.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.1/flyway-commandline-9.15.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.15.1_linux",
+    "name": "9.15.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.1/flyway-commandline-9.15.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.15.0nojre",
+    "name": "9.15.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.0/flyway-commandline-9.15.0.tar.gz"
+  },
+    {
+    "id": "9.15.0_windows",
+    "name": "9.15.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.0/flyway-commandline-9.15.0-windows-x64.zip"
+  },
+    {
+    "id": "9.15.0_macosx",
+    "name": "9.15.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.0/flyway-commandline-9.15.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.15.0_linux",
+    "name": "9.15.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.15.0/flyway-commandline-9.15.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.14.1nojre",
+    "name": "9.14.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.1/flyway-commandline-9.14.1.tar.gz"
+  },
+    {
+    "id": "9.14.1_windows",
+    "name": "9.14.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.1/flyway-commandline-9.14.1-windows-x64.zip"
+  },
+    {
+    "id": "9.14.1_macosx",
+    "name": "9.14.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.1/flyway-commandline-9.14.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.14.1_linux",
+    "name": "9.14.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.1/flyway-commandline-9.14.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.14.0nojre",
+    "name": "9.14.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.0/flyway-commandline-9.14.0.tar.gz"
+  },
+    {
+    "id": "9.14.0_windows",
+    "name": "9.14.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.0/flyway-commandline-9.14.0-windows-x64.zip"
+  },
+    {
+    "id": "9.14.0_macosx",
+    "name": "9.14.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.0/flyway-commandline-9.14.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.14.0_linux",
+    "name": "9.14.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.14.0/flyway-commandline-9.14.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.13.0nojre",
+    "name": "9.13.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.13.0/flyway-commandline-9.13.0.tar.gz"
+  },
+    {
+    "id": "9.13.0_windows",
+    "name": "9.13.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.13.0/flyway-commandline-9.13.0-windows-x64.zip"
+  },
+    {
+    "id": "9.13.0_macosx",
+    "name": "9.13.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.13.0/flyway-commandline-9.13.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.13.0_linux",
+    "name": "9.13.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.13.0/flyway-commandline-9.13.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.12.0nojre",
+    "name": "9.12.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.12.0/flyway-commandline-9.12.0.tar.gz"
+  },
+    {
+    "id": "9.12.0_windows",
+    "name": "9.12.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.12.0/flyway-commandline-9.12.0-windows-x64.zip"
+  },
+    {
+    "id": "9.12.0_macosx",
+    "name": "9.12.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.12.0/flyway-commandline-9.12.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.12.0_linux",
+    "name": "9.12.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.12.0/flyway-commandline-9.12.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.11.0nojre",
+    "name": "9.11.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.11.0/flyway-commandline-9.11.0.tar.gz"
+  },
+    {
+    "id": "9.11.0_windows",
+    "name": "9.11.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.11.0/flyway-commandline-9.11.0-windows-x64.zip"
+  },
+    {
+    "id": "9.11.0_macosx",
+    "name": "9.11.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.11.0/flyway-commandline-9.11.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.11.0_linux",
+    "name": "9.11.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.11.0/flyway-commandline-9.11.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.10.2nojre",
+    "name": "9.10.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.2/flyway-commandline-9.10.2.tar.gz"
+  },
+    {
+    "id": "9.10.2_windows",
+    "name": "9.10.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.2/flyway-commandline-9.10.2-windows-x64.zip"
+  },
+    {
+    "id": "9.10.2_macosx",
+    "name": "9.10.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.2/flyway-commandline-9.10.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.10.2_linux",
+    "name": "9.10.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.2/flyway-commandline-9.10.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.10.1nojre",
+    "name": "9.10.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.1/flyway-commandline-9.10.1.tar.gz"
+  },
+    {
+    "id": "9.10.1_windows",
+    "name": "9.10.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.1/flyway-commandline-9.10.1-windows-x64.zip"
+  },
+    {
+    "id": "9.10.1_macosx",
+    "name": "9.10.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.1/flyway-commandline-9.10.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.10.1_linux",
+    "name": "9.10.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.1/flyway-commandline-9.10.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.10.0nojre",
+    "name": "9.10.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.0/flyway-commandline-9.10.0.tar.gz"
+  },
+    {
+    "id": "9.10.0_windows",
+    "name": "9.10.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.0/flyway-commandline-9.10.0-windows-x64.zip"
+  },
+    {
+    "id": "9.10.0_macosx",
+    "name": "9.10.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.0/flyway-commandline-9.10.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.10.0_linux",
+    "name": "9.10.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.10.0/flyway-commandline-9.10.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.9.0nojre",
+    "name": "9.9.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.9.0/flyway-commandline-9.9.0.tar.gz"
+  },
+    {
+    "id": "9.9.0_windows",
+    "name": "9.9.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.9.0/flyway-commandline-9.9.0-windows-x64.zip"
+  },
+    {
+    "id": "9.9.0_macosx",
+    "name": "9.9.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.9.0/flyway-commandline-9.9.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.9.0_linux",
+    "name": "9.9.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.9.0/flyway-commandline-9.9.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.8.3nojre",
+    "name": "9.8.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.3/flyway-commandline-9.8.3.tar.gz"
+  },
+    {
+    "id": "9.8.3_windows",
+    "name": "9.8.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.3/flyway-commandline-9.8.3-windows-x64.zip"
+  },
+    {
+    "id": "9.8.3_macosx",
+    "name": "9.8.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.3/flyway-commandline-9.8.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.8.3_linux",
+    "name": "9.8.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.3/flyway-commandline-9.8.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.8.2nojre",
+    "name": "9.8.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.2/flyway-commandline-9.8.2.tar.gz"
+  },
+    {
+    "id": "9.8.2_windows",
+    "name": "9.8.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.2/flyway-commandline-9.8.2-windows-x64.zip"
+  },
+    {
+    "id": "9.8.2_macosx",
+    "name": "9.8.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.2/flyway-commandline-9.8.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.8.2_linux",
+    "name": "9.8.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.2/flyway-commandline-9.8.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.8.1nojre",
+    "name": "9.8.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.1/flyway-commandline-9.8.1.tar.gz"
+  },
+    {
+    "id": "9.8.1_windows",
+    "name": "9.8.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.1/flyway-commandline-9.8.1-windows-x64.zip"
+  },
+    {
+    "id": "9.8.1_macosx",
+    "name": "9.8.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.1/flyway-commandline-9.8.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.8.1_linux",
+    "name": "9.8.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.1/flyway-commandline-9.8.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.8.0nojre",
+    "name": "9.8.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.0/flyway-commandline-9.8.0.tar.gz"
+  },
+    {
+    "id": "9.8.0_windows",
+    "name": "9.8.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.0/flyway-commandline-9.8.0-windows-x64.zip"
+  },
+    {
+    "id": "9.8.0_macosx",
+    "name": "9.8.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.0/flyway-commandline-9.8.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.8.0_linux",
+    "name": "9.8.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.8.0/flyway-commandline-9.8.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.7.0nojre",
+    "name": "9.7.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.7.0/flyway-commandline-9.7.0.tar.gz"
+  },
+    {
+    "id": "9.7.0_windows",
+    "name": "9.7.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.7.0/flyway-commandline-9.7.0-windows-x64.zip"
+  },
+    {
+    "id": "9.7.0_macosx",
+    "name": "9.7.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.7.0/flyway-commandline-9.7.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.7.0_linux",
+    "name": "9.7.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.7.0/flyway-commandline-9.7.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.6.0nojre",
+    "name": "9.6.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.6.0/flyway-commandline-9.6.0.tar.gz"
+  },
+    {
+    "id": "9.6.0_windows",
+    "name": "9.6.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.6.0/flyway-commandline-9.6.0-windows-x64.zip"
+  },
+    {
+    "id": "9.6.0_macosx",
+    "name": "9.6.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.6.0/flyway-commandline-9.6.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.6.0_linux",
+    "name": "9.6.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.6.0/flyway-commandline-9.6.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.5.1nojre",
+    "name": "9.5.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.1/flyway-commandline-9.5.1.tar.gz"
+  },
+    {
+    "id": "9.5.1_windows",
+    "name": "9.5.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.1/flyway-commandline-9.5.1-windows-x64.zip"
+  },
+    {
+    "id": "9.5.1_macosx",
+    "name": "9.5.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.1/flyway-commandline-9.5.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.5.1_linux",
+    "name": "9.5.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.1/flyway-commandline-9.5.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.5.0nojre",
+    "name": "9.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.0/flyway-commandline-9.5.0.tar.gz"
+  },
+    {
+    "id": "9.5.0_windows",
+    "name": "9.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.0/flyway-commandline-9.5.0-windows-x64.zip"
+  },
+    {
+    "id": "9.5.0_macosx",
+    "name": "9.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.0/flyway-commandline-9.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.5.0_linux",
+    "name": "9.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.5.0/flyway-commandline-9.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.4.0nojre",
+    "name": "9.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.4.0/flyway-commandline-9.4.0.tar.gz"
+  },
+    {
+    "id": "9.4.0_windows",
+    "name": "9.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.4.0/flyway-commandline-9.4.0-windows-x64.zip"
+  },
+    {
+    "id": "9.4.0_macosx",
+    "name": "9.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.4.0/flyway-commandline-9.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.4.0_linux",
+    "name": "9.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.4.0/flyway-commandline-9.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.3.1nojre",
+    "name": "9.3.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.1/flyway-commandline-9.3.1.tar.gz"
+  },
+    {
+    "id": "9.3.1_windows",
+    "name": "9.3.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.1/flyway-commandline-9.3.1-windows-x64.zip"
+  },
+    {
+    "id": "9.3.1_macosx",
+    "name": "9.3.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.1/flyway-commandline-9.3.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.3.1_linux",
+    "name": "9.3.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.1/flyway-commandline-9.3.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.3.0nojre",
+    "name": "9.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.0/flyway-commandline-9.3.0.tar.gz"
+  },
+    {
+    "id": "9.3.0_windows",
+    "name": "9.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.0/flyway-commandline-9.3.0-windows-x64.zip"
+  },
+    {
+    "id": "9.3.0_macosx",
+    "name": "9.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.0/flyway-commandline-9.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.3.0_linux",
+    "name": "9.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.3.0/flyway-commandline-9.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.2.3nojre",
+    "name": "9.2.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.3/flyway-commandline-9.2.3.tar.gz"
+  },
+    {
+    "id": "9.2.3_windows",
+    "name": "9.2.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.3/flyway-commandline-9.2.3-windows-x64.zip"
+  },
+    {
+    "id": "9.2.3_macosx",
+    "name": "9.2.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.3/flyway-commandline-9.2.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.2.3_linux",
+    "name": "9.2.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.3/flyway-commandline-9.2.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.2.2nojre",
+    "name": "9.2.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.2/flyway-commandline-9.2.2.tar.gz"
+  },
+    {
+    "id": "9.2.2_windows",
+    "name": "9.2.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.2/flyway-commandline-9.2.2-windows-x64.zip"
+  },
+    {
+    "id": "9.2.2_macosx",
+    "name": "9.2.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.2/flyway-commandline-9.2.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.2.2_linux",
+    "name": "9.2.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.2/flyway-commandline-9.2.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.2.1nojre",
+    "name": "9.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.1/flyway-commandline-9.2.1.tar.gz"
+  },
+    {
+    "id": "9.2.1_windows",
+    "name": "9.2.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.1/flyway-commandline-9.2.1-windows-x64.zip"
+  },
+    {
+    "id": "9.2.1_macosx",
+    "name": "9.2.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.1/flyway-commandline-9.2.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.2.1_linux",
+    "name": "9.2.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.1/flyway-commandline-9.2.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.2.0nojre",
+    "name": "9.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.0/flyway-commandline-9.2.0.tar.gz"
+  },
+    {
+    "id": "9.2.0_windows",
+    "name": "9.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.0/flyway-commandline-9.2.0-windows-x64.zip"
+  },
+    {
+    "id": "9.2.0_macosx",
+    "name": "9.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.0/flyway-commandline-9.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.2.0_linux",
+    "name": "9.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.2.0/flyway-commandline-9.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.1.6nojre",
+    "name": "9.1.6 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.6/flyway-commandline-9.1.6.tar.gz"
+  },
+    {
+    "id": "9.1.6_windows",
+    "name": "9.1.6 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.6/flyway-commandline-9.1.6-windows-x64.zip"
+  },
+    {
+    "id": "9.1.6_macosx",
+    "name": "9.1.6 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.6/flyway-commandline-9.1.6-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.1.6_linux",
+    "name": "9.1.6 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.6/flyway-commandline-9.1.6-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.1.5nojre",
+    "name": "9.1.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.5/flyway-commandline-9.1.5.tar.gz"
+  },
+    {
+    "id": "9.1.5_windows",
+    "name": "9.1.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.5/flyway-commandline-9.1.5-windows-x64.zip"
+  },
+    {
+    "id": "9.1.5_macosx",
+    "name": "9.1.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.5/flyway-commandline-9.1.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.1.5_linux",
+    "name": "9.1.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.5/flyway-commandline-9.1.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.1.4nojre",
+    "name": "9.1.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.4/flyway-commandline-9.1.4.tar.gz"
+  },
+    {
+    "id": "9.1.4_windows",
+    "name": "9.1.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.4/flyway-commandline-9.1.4-windows-x64.zip"
+  },
+    {
+    "id": "9.1.4_macosx",
+    "name": "9.1.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.4/flyway-commandline-9.1.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.1.4_linux",
+    "name": "9.1.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.4/flyway-commandline-9.1.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.1.3nojre",
+    "name": "9.1.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.3/flyway-commandline-9.1.3.tar.gz"
+  },
+    {
+    "id": "9.1.3_windows",
+    "name": "9.1.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.3/flyway-commandline-9.1.3-windows-x64.zip"
+  },
+    {
+    "id": "9.1.3_macosx",
+    "name": "9.1.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.3/flyway-commandline-9.1.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.1.3_linux",
+    "name": "9.1.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.3/flyway-commandline-9.1.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.1.2nojre",
+    "name": "9.1.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.2/flyway-commandline-9.1.2.tar.gz"
+  },
+    {
+    "id": "9.1.2_windows",
+    "name": "9.1.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.2/flyway-commandline-9.1.2-windows-x64.zip"
+  },
+    {
+    "id": "9.1.2_macosx",
+    "name": "9.1.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.2/flyway-commandline-9.1.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.1.2_linux",
+    "name": "9.1.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.1.2/flyway-commandline-9.1.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.0.4nojre",
+    "name": "9.0.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.4/flyway-commandline-9.0.4.tar.gz"
+  },
+    {
+    "id": "9.0.4_windows",
+    "name": "9.0.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.4/flyway-commandline-9.0.4-windows-x64.zip"
+  },
+    {
+    "id": "9.0.4_macosx",
+    "name": "9.0.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.4/flyway-commandline-9.0.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.0.4_linux",
+    "name": "9.0.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.4/flyway-commandline-9.0.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.0.3nojre",
+    "name": "9.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.3/flyway-commandline-9.0.3.tar.gz"
+  },
+    {
+    "id": "9.0.3_windows",
+    "name": "9.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.3/flyway-commandline-9.0.3-windows-x64.zip"
+  },
+    {
+    "id": "9.0.3_macosx",
+    "name": "9.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.3/flyway-commandline-9.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.0.3_linux",
+    "name": "9.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.3/flyway-commandline-9.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.0.2nojre",
+    "name": "9.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.2/flyway-commandline-9.0.2.tar.gz"
+  },
+    {
+    "id": "9.0.2_windows",
+    "name": "9.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.2/flyway-commandline-9.0.2-windows-x64.zip"
+  },
+    {
+    "id": "9.0.2_macosx",
+    "name": "9.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.2/flyway-commandline-9.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.0.2_linux",
+    "name": "9.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.2/flyway-commandline-9.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.0.1nojre",
+    "name": "9.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.1/flyway-commandline-9.0.1.tar.gz"
+  },
+    {
+    "id": "9.0.1_windows",
+    "name": "9.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.1/flyway-commandline-9.0.1-windows-x64.zip"
+  },
+    {
+    "id": "9.0.1_macosx",
+    "name": "9.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.1/flyway-commandline-9.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.0.1_linux",
+    "name": "9.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.1/flyway-commandline-9.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "9.0.0nojre",
+    "name": "9.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.0/flyway-commandline-9.0.0.tar.gz"
+  },
+    {
+    "id": "9.0.0_windows",
+    "name": "9.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.0/flyway-commandline-9.0.0-windows-x64.zip"
+  },
+    {
+    "id": "9.0.0_macosx",
+    "name": "9.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.0/flyway-commandline-9.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "9.0.0_linux",
+    "name": "9.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/9.0.0/flyway-commandline-9.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.13nojre",
+    "name": "8.5.13 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.13/flyway-commandline-8.5.13.tar.gz"
+  },
+    {
+    "id": "8.5.13_windows",
+    "name": "8.5.13 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.13/flyway-commandline-8.5.13-windows-x64.zip"
+  },
+    {
+    "id": "8.5.13_macosx",
+    "name": "8.5.13 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.13/flyway-commandline-8.5.13-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.13_linux",
+    "name": "8.5.13 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.13/flyway-commandline-8.5.13-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.12nojre",
+    "name": "8.5.12 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.12/flyway-commandline-8.5.12.tar.gz"
+  },
+    {
+    "id": "8.5.12_windows",
+    "name": "8.5.12 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.12/flyway-commandline-8.5.12-windows-x64.zip"
+  },
+    {
+    "id": "8.5.12_macosx",
+    "name": "8.5.12 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.12/flyway-commandline-8.5.12-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.12_linux",
+    "name": "8.5.12 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.12/flyway-commandline-8.5.12-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.11nojre",
+    "name": "8.5.11 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.11/flyway-commandline-8.5.11.tar.gz"
+  },
+    {
+    "id": "8.5.11_windows",
+    "name": "8.5.11 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.11/flyway-commandline-8.5.11-windows-x64.zip"
+  },
+    {
+    "id": "8.5.11_macosx",
+    "name": "8.5.11 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.11/flyway-commandline-8.5.11-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.11_linux",
+    "name": "8.5.11 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.11/flyway-commandline-8.5.11-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.10nojre",
+    "name": "8.5.10 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.10/flyway-commandline-8.5.10.tar.gz"
+  },
+    {
+    "id": "8.5.10_windows",
+    "name": "8.5.10 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.10/flyway-commandline-8.5.10-windows-x64.zip"
+  },
+    {
+    "id": "8.5.10_macosx",
+    "name": "8.5.10 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.10/flyway-commandline-8.5.10-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.10_linux",
+    "name": "8.5.10 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.10/flyway-commandline-8.5.10-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.9nojre",
+    "name": "8.5.9 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.9/flyway-commandline-8.5.9.tar.gz"
+  },
+    {
+    "id": "8.5.9_windows",
+    "name": "8.5.9 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.9/flyway-commandline-8.5.9-windows-x64.zip"
+  },
+    {
+    "id": "8.5.9_macosx",
+    "name": "8.5.9 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.9/flyway-commandline-8.5.9-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.9_linux",
+    "name": "8.5.9 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.9/flyway-commandline-8.5.9-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.8nojre",
+    "name": "8.5.8 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.8/flyway-commandline-8.5.8.tar.gz"
+  },
+    {
+    "id": "8.5.8_windows",
+    "name": "8.5.8 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.8/flyway-commandline-8.5.8-windows-x64.zip"
+  },
+    {
+    "id": "8.5.8_macosx",
+    "name": "8.5.8 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.8/flyway-commandline-8.5.8-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.8_linux",
+    "name": "8.5.8 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.8/flyway-commandline-8.5.8-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.7nojre",
+    "name": "8.5.7 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.7/flyway-commandline-8.5.7.tar.gz"
+  },
+    {
+    "id": "8.5.7_windows",
+    "name": "8.5.7 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.7/flyway-commandline-8.5.7-windows-x64.zip"
+  },
+    {
+    "id": "8.5.7_macosx",
+    "name": "8.5.7 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.7/flyway-commandline-8.5.7-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.7_linux",
+    "name": "8.5.7 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.7/flyway-commandline-8.5.7-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.6nojre",
+    "name": "8.5.6 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.6/flyway-commandline-8.5.6.tar.gz"
+  },
+    {
+    "id": "8.5.6_windows",
+    "name": "8.5.6 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.6/flyway-commandline-8.5.6-windows-x64.zip"
+  },
+    {
+    "id": "8.5.6_macosx",
+    "name": "8.5.6 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.6/flyway-commandline-8.5.6-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.6_linux",
+    "name": "8.5.6 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.6/flyway-commandline-8.5.6-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.5nojre",
+    "name": "8.5.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.5/flyway-commandline-8.5.5.tar.gz"
+  },
+    {
+    "id": "8.5.5_windows",
+    "name": "8.5.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.5/flyway-commandline-8.5.5-windows-x64.zip"
+  },
+    {
+    "id": "8.5.5_macosx",
+    "name": "8.5.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.5/flyway-commandline-8.5.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.5_linux",
+    "name": "8.5.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.5/flyway-commandline-8.5.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.4nojre",
+    "name": "8.5.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.4/flyway-commandline-8.5.4.tar.gz"
+  },
+    {
+    "id": "8.5.4_windows",
+    "name": "8.5.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.4/flyway-commandline-8.5.4-windows-x64.zip"
+  },
+    {
+    "id": "8.5.4_macosx",
+    "name": "8.5.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.4/flyway-commandline-8.5.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.4_linux",
+    "name": "8.5.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.4/flyway-commandline-8.5.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.3nojre",
+    "name": "8.5.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.3/flyway-commandline-8.5.3.tar.gz"
+  },
+    {
+    "id": "8.5.3_windows",
+    "name": "8.5.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.3/flyway-commandline-8.5.3-windows-x64.zip"
+  },
+    {
+    "id": "8.5.3_macosx",
+    "name": "8.5.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.3/flyway-commandline-8.5.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.3_linux",
+    "name": "8.5.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.3/flyway-commandline-8.5.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.2nojre",
+    "name": "8.5.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.2/flyway-commandline-8.5.2.tar.gz"
+  },
+    {
+    "id": "8.5.2_windows",
+    "name": "8.5.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.2/flyway-commandline-8.5.2-windows-x64.zip"
+  },
+    {
+    "id": "8.5.2_macosx",
+    "name": "8.5.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.2/flyway-commandline-8.5.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.2_linux",
+    "name": "8.5.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.2/flyway-commandline-8.5.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.1nojre",
+    "name": "8.5.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.1/flyway-commandline-8.5.1.tar.gz"
+  },
+    {
+    "id": "8.5.1_windows",
+    "name": "8.5.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.1/flyway-commandline-8.5.1-windows-x64.zip"
+  },
+    {
+    "id": "8.5.1_macosx",
+    "name": "8.5.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.1/flyway-commandline-8.5.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.1_linux",
+    "name": "8.5.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.1/flyway-commandline-8.5.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.5.0nojre",
+    "name": "8.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.0/flyway-commandline-8.5.0.tar.gz"
+  },
+    {
+    "id": "8.5.0_windows",
+    "name": "8.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.0/flyway-commandline-8.5.0-windows-x64.zip"
+  },
+    {
+    "id": "8.5.0_macosx",
+    "name": "8.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.0/flyway-commandline-8.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.5.0_linux",
+    "name": "8.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.5.0/flyway-commandline-8.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.4.4nojre",
+    "name": "8.4.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.4/flyway-commandline-8.4.4.tar.gz"
+  },
+    {
+    "id": "8.4.4_windows",
+    "name": "8.4.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.4/flyway-commandline-8.4.4-windows-x64.zip"
+  },
+    {
+    "id": "8.4.4_macosx",
+    "name": "8.4.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.4/flyway-commandline-8.4.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.4.4_linux",
+    "name": "8.4.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.4/flyway-commandline-8.4.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.4.3nojre",
+    "name": "8.4.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.3/flyway-commandline-8.4.3.tar.gz"
+  },
+    {
+    "id": "8.4.3_windows",
+    "name": "8.4.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.3/flyway-commandline-8.4.3-windows-x64.zip"
+  },
+    {
+    "id": "8.4.3_macosx",
+    "name": "8.4.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.3/flyway-commandline-8.4.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.4.3_linux",
+    "name": "8.4.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.3/flyway-commandline-8.4.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.4.2nojre",
+    "name": "8.4.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.2/flyway-commandline-8.4.2.tar.gz"
+  },
+    {
+    "id": "8.4.2_windows",
+    "name": "8.4.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.2/flyway-commandline-8.4.2-windows-x64.zip"
+  },
+    {
+    "id": "8.4.2_macosx",
+    "name": "8.4.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.2/flyway-commandline-8.4.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.4.2_linux",
+    "name": "8.4.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.2/flyway-commandline-8.4.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.4.1nojre",
+    "name": "8.4.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.1/flyway-commandline-8.4.1.tar.gz"
+  },
+    {
+    "id": "8.4.1_windows",
+    "name": "8.4.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.1/flyway-commandline-8.4.1-windows-x64.zip"
+  },
+    {
+    "id": "8.4.1_macosx",
+    "name": "8.4.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.1/flyway-commandline-8.4.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.4.1_linux",
+    "name": "8.4.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.1/flyway-commandline-8.4.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.4.0nojre",
+    "name": "8.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.0/flyway-commandline-8.4.0.tar.gz"
+  },
+    {
+    "id": "8.4.0_windows",
+    "name": "8.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.0/flyway-commandline-8.4.0-windows-x64.zip"
+  },
+    {
+    "id": "8.4.0_macosx",
+    "name": "8.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.0/flyway-commandline-8.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.4.0_linux",
+    "name": "8.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.4.0/flyway-commandline-8.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.3.0nojre",
+    "name": "8.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.3.0/flyway-commandline-8.3.0.tar.gz"
+  },
+    {
+    "id": "8.3.0_windows",
+    "name": "8.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.3.0/flyway-commandline-8.3.0-windows-x64.zip"
+  },
+    {
+    "id": "8.3.0_macosx",
+    "name": "8.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.3.0/flyway-commandline-8.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.3.0_linux",
+    "name": "8.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.3.0/flyway-commandline-8.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.2.3nojre",
+    "name": "8.2.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.3/flyway-commandline-8.2.3.tar.gz"
+  },
+    {
+    "id": "8.2.3_windows",
+    "name": "8.2.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.3/flyway-commandline-8.2.3-windows-x64.zip"
+  },
+    {
+    "id": "8.2.3_macosx",
+    "name": "8.2.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.3/flyway-commandline-8.2.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.2.3_linux",
+    "name": "8.2.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.3/flyway-commandline-8.2.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.2.2nojre",
+    "name": "8.2.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.2/flyway-commandline-8.2.2.tar.gz"
+  },
+    {
+    "id": "8.2.2_windows",
+    "name": "8.2.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.2/flyway-commandline-8.2.2-windows-x64.zip"
+  },
+    {
+    "id": "8.2.2_macosx",
+    "name": "8.2.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.2/flyway-commandline-8.2.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.2.2_linux",
+    "name": "8.2.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.2/flyway-commandline-8.2.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.2.1nojre",
+    "name": "8.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.1/flyway-commandline-8.2.1.tar.gz"
+  },
+    {
+    "id": "8.2.1_windows",
+    "name": "8.2.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.1/flyway-commandline-8.2.1-windows-x64.zip"
+  },
+    {
+    "id": "8.2.1_macosx",
+    "name": "8.2.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.1/flyway-commandline-8.2.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.2.1_linux",
+    "name": "8.2.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.1/flyway-commandline-8.2.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.2.0nojre",
+    "name": "8.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.0/flyway-commandline-8.2.0.tar.gz"
+  },
+    {
+    "id": "8.2.0_windows",
+    "name": "8.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.0/flyway-commandline-8.2.0-windows-x64.zip"
+  },
+    {
+    "id": "8.2.0_macosx",
+    "name": "8.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.0/flyway-commandline-8.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.2.0_linux",
+    "name": "8.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.2.0/flyway-commandline-8.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.1.0nojre",
+    "name": "8.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.1.0/flyway-commandline-8.1.0.tar.gz"
+  },
+    {
+    "id": "8.1.0_windows",
+    "name": "8.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.1.0/flyway-commandline-8.1.0-windows-x64.zip"
+  },
+    {
+    "id": "8.1.0_macosx",
+    "name": "8.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.1.0/flyway-commandline-8.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.1.0_linux",
+    "name": "8.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.1.0/flyway-commandline-8.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.5nojre",
+    "name": "8.0.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.5/flyway-commandline-8.0.5.tar.gz"
+  },
+    {
+    "id": "8.0.5_windows",
+    "name": "8.0.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.5/flyway-commandline-8.0.5-windows-x64.zip"
+  },
+    {
+    "id": "8.0.5_macosx",
+    "name": "8.0.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.5/flyway-commandline-8.0.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.5_linux",
+    "name": "8.0.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.5/flyway-commandline-8.0.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.4nojre",
+    "name": "8.0.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.4/flyway-commandline-8.0.4.tar.gz"
+  },
+    {
+    "id": "8.0.4_windows",
+    "name": "8.0.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.4/flyway-commandline-8.0.4-windows-x64.zip"
+  },
+    {
+    "id": "8.0.4_macosx",
+    "name": "8.0.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.4/flyway-commandline-8.0.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.4_linux",
+    "name": "8.0.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.4/flyway-commandline-8.0.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.3nojre",
+    "name": "8.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.3/flyway-commandline-8.0.3.tar.gz"
+  },
+    {
+    "id": "8.0.3_windows",
+    "name": "8.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.3/flyway-commandline-8.0.3-windows-x64.zip"
+  },
+    {
+    "id": "8.0.3_macosx",
+    "name": "8.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.3/flyway-commandline-8.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.3_linux",
+    "name": "8.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.3/flyway-commandline-8.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.2nojre",
+    "name": "8.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.2/flyway-commandline-8.0.2.tar.gz"
+  },
+    {
+    "id": "8.0.2_windows",
+    "name": "8.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.2/flyway-commandline-8.0.2-windows-x64.zip"
+  },
+    {
+    "id": "8.0.2_macosx",
+    "name": "8.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.2/flyway-commandline-8.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.2_linux",
+    "name": "8.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.2/flyway-commandline-8.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.1nojre",
+    "name": "8.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.1/flyway-commandline-8.0.1.tar.gz"
+  },
+    {
+    "id": "8.0.1_windows",
+    "name": "8.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.1/flyway-commandline-8.0.1-windows-x64.zip"
+  },
+    {
+    "id": "8.0.1_macosx",
+    "name": "8.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.1/flyway-commandline-8.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.1_linux",
+    "name": "8.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.1/flyway-commandline-8.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0nojre",
+    "name": "8.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0/flyway-commandline-8.0.0.tar.gz"
+  },
+    {
+    "id": "8.0.0_windows",
+    "name": "8.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0/flyway-commandline-8.0.0-windows-x64.zip"
+  },
+    {
+    "id": "8.0.0_macosx",
+    "name": "8.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0/flyway-commandline-8.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0_linux",
+    "name": "8.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0/flyway-commandline-8.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta3nojre",
+    "name": "8.0.0-beta3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta3/flyway-commandline-8.0.0-beta3.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta3_windows",
+    "name": "8.0.0-beta3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta3/flyway-commandline-8.0.0-beta3-windows-x64.zip"
+  },
+    {
+    "id": "8.0.0-beta3_macosx",
+    "name": "8.0.0-beta3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta3/flyway-commandline-8.0.0-beta3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta3_linux",
+    "name": "8.0.0-beta3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta3/flyway-commandline-8.0.0-beta3-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta2nojre",
+    "name": "8.0.0-beta2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta2/flyway-commandline-8.0.0-beta2.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta2_windows",
+    "name": "8.0.0-beta2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta2/flyway-commandline-8.0.0-beta2-windows-x64.zip"
+  },
+    {
+    "id": "8.0.0-beta2_macosx",
+    "name": "8.0.0-beta2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta2/flyway-commandline-8.0.0-beta2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta2_linux",
+    "name": "8.0.0-beta2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta2/flyway-commandline-8.0.0-beta2-linux-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta1nojre",
+    "name": "8.0.0-beta1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta1/flyway-commandline-8.0.0-beta1.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta1_windows",
+    "name": "8.0.0-beta1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta1/flyway-commandline-8.0.0-beta1-windows-x64.zip"
+  },
+    {
+    "id": "8.0.0-beta1_macosx",
+    "name": "8.0.0-beta1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta1/flyway-commandline-8.0.0-beta1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "8.0.0-beta1_linux",
+    "name": "8.0.0-beta1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/8.0.0-beta1/flyway-commandline-8.0.0-beta1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.15.0nojre",
+    "name": "7.15.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.15.0/flyway-commandline-7.15.0.tar.gz"
+  },
+    {
+    "id": "7.15.0_windows",
+    "name": "7.15.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.15.0/flyway-commandline-7.15.0-windows-x64.zip"
+  },
+    {
+    "id": "7.15.0_macosx",
+    "name": "7.15.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.15.0/flyway-commandline-7.15.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.15.0_linux",
+    "name": "7.15.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.15.0/flyway-commandline-7.15.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.14.1nojre",
+    "name": "7.14.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.1/flyway-commandline-7.14.1.tar.gz"
+  },
+    {
+    "id": "7.14.1_windows",
+    "name": "7.14.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.1/flyway-commandline-7.14.1-windows-x64.zip"
+  },
+    {
+    "id": "7.14.1_macosx",
+    "name": "7.14.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.1/flyway-commandline-7.14.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.14.1_linux",
+    "name": "7.14.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.1/flyway-commandline-7.14.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.14.0nojre",
+    "name": "7.14.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.0/flyway-commandline-7.14.0.tar.gz"
+  },
+    {
+    "id": "7.14.0_windows",
+    "name": "7.14.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.0/flyway-commandline-7.14.0-windows-x64.zip"
+  },
+    {
+    "id": "7.14.0_macosx",
+    "name": "7.14.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.0/flyway-commandline-7.14.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.14.0_linux",
+    "name": "7.14.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.14.0/flyway-commandline-7.14.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.13.0nojre",
+    "name": "7.13.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.13.0/flyway-commandline-7.13.0.tar.gz"
+  },
+    {
+    "id": "7.13.0_windows",
+    "name": "7.13.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.13.0/flyway-commandline-7.13.0-windows-x64.zip"
+  },
+    {
+    "id": "7.13.0_macosx",
+    "name": "7.13.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.13.0/flyway-commandline-7.13.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.13.0_linux",
+    "name": "7.13.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.13.0/flyway-commandline-7.13.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.12.1nojre",
+    "name": "7.12.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.1/flyway-commandline-7.12.1.tar.gz"
+  },
+    {
+    "id": "7.12.1_windows",
+    "name": "7.12.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.1/flyway-commandline-7.12.1-windows-x64.zip"
+  },
+    {
+    "id": "7.12.1_macosx",
+    "name": "7.12.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.1/flyway-commandline-7.12.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.12.1_linux",
+    "name": "7.12.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.1/flyway-commandline-7.12.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.12.0nojre",
+    "name": "7.12.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.0/flyway-commandline-7.12.0.tar.gz"
+  },
+    {
+    "id": "7.12.0_windows",
+    "name": "7.12.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.0/flyway-commandline-7.12.0-windows-x64.zip"
+  },
+    {
+    "id": "7.12.0_macosx",
+    "name": "7.12.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.0/flyway-commandline-7.12.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.12.0_linux",
+    "name": "7.12.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.12.0/flyway-commandline-7.12.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.11.4nojre",
+    "name": "7.11.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.4/flyway-commandline-7.11.4.tar.gz"
+  },
+    {
+    "id": "7.11.4_windows",
+    "name": "7.11.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.4/flyway-commandline-7.11.4-windows-x64.zip"
+  },
+    {
+    "id": "7.11.4_macosx",
+    "name": "7.11.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.4/flyway-commandline-7.11.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.11.4_linux",
+    "name": "7.11.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.4/flyway-commandline-7.11.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.11.3nojre",
+    "name": "7.11.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.3/flyway-commandline-7.11.3.tar.gz"
+  },
+    {
+    "id": "7.11.3_windows",
+    "name": "7.11.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.3/flyway-commandline-7.11.3-windows-x64.zip"
+  },
+    {
+    "id": "7.11.3_macosx",
+    "name": "7.11.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.3/flyway-commandline-7.11.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.11.3_linux",
+    "name": "7.11.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.3/flyway-commandline-7.11.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.11.2nojre",
+    "name": "7.11.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.2/flyway-commandline-7.11.2.tar.gz"
+  },
+    {
+    "id": "7.11.2_windows",
+    "name": "7.11.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.2/flyway-commandline-7.11.2-windows-x64.zip"
+  },
+    {
+    "id": "7.11.2_macosx",
+    "name": "7.11.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.2/flyway-commandline-7.11.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.11.2_linux",
+    "name": "7.11.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.2/flyway-commandline-7.11.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.11.1nojre",
+    "name": "7.11.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.1/flyway-commandline-7.11.1.tar.gz"
+  },
+    {
+    "id": "7.11.1_windows",
+    "name": "7.11.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.1/flyway-commandline-7.11.1-windows-x64.zip"
+  },
+    {
+    "id": "7.11.1_macosx",
+    "name": "7.11.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.1/flyway-commandline-7.11.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.11.1_linux",
+    "name": "7.11.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.1/flyway-commandline-7.11.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.11.0nojre",
+    "name": "7.11.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.0/flyway-commandline-7.11.0.tar.gz"
+  },
+    {
+    "id": "7.11.0_windows",
+    "name": "7.11.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.0/flyway-commandline-7.11.0-windows-x64.zip"
+  },
+    {
+    "id": "7.11.0_macosx",
+    "name": "7.11.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.0/flyway-commandline-7.11.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.11.0_linux",
+    "name": "7.11.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.11.0/flyway-commandline-7.11.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.10.0nojre",
+    "name": "7.10.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.10.0/flyway-commandline-7.10.0.tar.gz"
+  },
+    {
+    "id": "7.10.0_windows",
+    "name": "7.10.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.10.0/flyway-commandline-7.10.0-windows-x64.zip"
+  },
+    {
+    "id": "7.10.0_macosx",
+    "name": "7.10.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.10.0/flyway-commandline-7.10.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.10.0_linux",
+    "name": "7.10.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.10.0/flyway-commandline-7.10.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.9.2nojre",
+    "name": "7.9.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.2/flyway-commandline-7.9.2.tar.gz"
+  },
+    {
+    "id": "7.9.2_windows",
+    "name": "7.9.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.2/flyway-commandline-7.9.2-windows-x64.zip"
+  },
+    {
+    "id": "7.9.2_macosx",
+    "name": "7.9.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.2/flyway-commandline-7.9.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.9.2_linux",
+    "name": "7.9.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.2/flyway-commandline-7.9.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.9.1nojre",
+    "name": "7.9.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.1/flyway-commandline-7.9.1.tar.gz"
+  },
+    {
+    "id": "7.9.1_windows",
+    "name": "7.9.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.1/flyway-commandline-7.9.1-windows-x64.zip"
+  },
+    {
+    "id": "7.9.1_macosx",
+    "name": "7.9.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.1/flyway-commandline-7.9.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.9.1_linux",
+    "name": "7.9.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.1/flyway-commandline-7.9.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.9.0nojre",
+    "name": "7.9.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.0/flyway-commandline-7.9.0.tar.gz"
+  },
+    {
+    "id": "7.9.0_windows",
+    "name": "7.9.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.0/flyway-commandline-7.9.0-windows-x64.zip"
+  },
+    {
+    "id": "7.9.0_macosx",
+    "name": "7.9.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.0/flyway-commandline-7.9.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.9.0_linux",
+    "name": "7.9.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.9.0/flyway-commandline-7.9.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.8.2nojre",
+    "name": "7.8.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.2/flyway-commandline-7.8.2.tar.gz"
+  },
+    {
+    "id": "7.8.2_windows",
+    "name": "7.8.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.2/flyway-commandline-7.8.2-windows-x64.zip"
+  },
+    {
+    "id": "7.8.2_macosx",
+    "name": "7.8.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.2/flyway-commandline-7.8.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.8.2_linux",
+    "name": "7.8.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.2/flyway-commandline-7.8.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.8.1nojre",
+    "name": "7.8.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.1/flyway-commandline-7.8.1.tar.gz"
+  },
+    {
+    "id": "7.8.1_windows",
+    "name": "7.8.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.1/flyway-commandline-7.8.1-windows-x64.zip"
+  },
+    {
+    "id": "7.8.1_macosx",
+    "name": "7.8.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.1/flyway-commandline-7.8.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.8.1_linux",
+    "name": "7.8.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.1/flyway-commandline-7.8.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.8.0nojre",
+    "name": "7.8.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.0/flyway-commandline-7.8.0.tar.gz"
+  },
+    {
+    "id": "7.8.0_windows",
+    "name": "7.8.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.0/flyway-commandline-7.8.0-windows-x64.zip"
+  },
+    {
+    "id": "7.8.0_macosx",
+    "name": "7.8.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.0/flyway-commandline-7.8.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.8.0_linux",
+    "name": "7.8.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.8.0/flyway-commandline-7.8.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.7.3nojre",
+    "name": "7.7.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.3/flyway-commandline-7.7.3.tar.gz"
+  },
+    {
+    "id": "7.7.3_windows",
+    "name": "7.7.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.3/flyway-commandline-7.7.3-windows-x64.zip"
+  },
+    {
+    "id": "7.7.3_macosx",
+    "name": "7.7.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.3/flyway-commandline-7.7.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.7.3_linux",
+    "name": "7.7.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.3/flyway-commandline-7.7.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.7.2nojre",
+    "name": "7.7.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.2/flyway-commandline-7.7.2.tar.gz"
+  },
+    {
+    "id": "7.7.2_windows",
+    "name": "7.7.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.2/flyway-commandline-7.7.2-windows-x64.zip"
+  },
+    {
+    "id": "7.7.2_macosx",
+    "name": "7.7.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.2/flyway-commandline-7.7.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.7.2_linux",
+    "name": "7.7.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.2/flyway-commandline-7.7.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.7.1nojre",
+    "name": "7.7.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.1/flyway-commandline-7.7.1.tar.gz"
+  },
+    {
+    "id": "7.7.1_windows",
+    "name": "7.7.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.1/flyway-commandline-7.7.1-windows-x64.zip"
+  },
+    {
+    "id": "7.7.1_macosx",
+    "name": "7.7.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.1/flyway-commandline-7.7.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.7.1_linux",
+    "name": "7.7.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.1/flyway-commandline-7.7.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.7.0nojre",
+    "name": "7.7.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.0/flyway-commandline-7.7.0.tar.gz"
+  },
+    {
+    "id": "7.7.0_windows",
+    "name": "7.7.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.0/flyway-commandline-7.7.0-windows-x64.zip"
+  },
+    {
+    "id": "7.7.0_macosx",
+    "name": "7.7.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.0/flyway-commandline-7.7.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.7.0_linux",
+    "name": "7.7.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.7.0/flyway-commandline-7.7.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.6.0nojre",
+    "name": "7.6.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.6.0/flyway-commandline-7.6.0.tar.gz"
+  },
+    {
+    "id": "7.6.0_windows",
+    "name": "7.6.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.6.0/flyway-commandline-7.6.0-windows-x64.zip"
+  },
+    {
+    "id": "7.6.0_macosx",
+    "name": "7.6.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.6.0/flyway-commandline-7.6.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.6.0_linux",
+    "name": "7.6.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.6.0/flyway-commandline-7.6.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.5.4nojre",
+    "name": "7.5.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.4/flyway-commandline-7.5.4.tar.gz"
+  },
+    {
+    "id": "7.5.4_windows",
+    "name": "7.5.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.4/flyway-commandline-7.5.4-windows-x64.zip"
+  },
+    {
+    "id": "7.5.4_macosx",
+    "name": "7.5.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.4/flyway-commandline-7.5.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.5.4_linux",
+    "name": "7.5.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.4/flyway-commandline-7.5.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.5.3nojre",
+    "name": "7.5.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.3/flyway-commandline-7.5.3.tar.gz"
+  },
+    {
+    "id": "7.5.3_windows",
+    "name": "7.5.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.3/flyway-commandline-7.5.3-windows-x64.zip"
+  },
+    {
+    "id": "7.5.3_macosx",
+    "name": "7.5.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.3/flyway-commandline-7.5.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.5.3_linux",
+    "name": "7.5.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.3/flyway-commandline-7.5.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.5.2nojre",
+    "name": "7.5.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.2/flyway-commandline-7.5.2.tar.gz"
+  },
+    {
+    "id": "7.5.2_windows",
+    "name": "7.5.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.2/flyway-commandline-7.5.2-windows-x64.zip"
+  },
+    {
+    "id": "7.5.2_macosx",
+    "name": "7.5.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.2/flyway-commandline-7.5.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.5.2_linux",
+    "name": "7.5.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.2/flyway-commandline-7.5.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.5.1nojre",
+    "name": "7.5.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.1/flyway-commandline-7.5.1.tar.gz"
+  },
+    {
+    "id": "7.5.1_windows",
+    "name": "7.5.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.1/flyway-commandline-7.5.1-windows-x64.zip"
+  },
+    {
+    "id": "7.5.1_macosx",
+    "name": "7.5.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.1/flyway-commandline-7.5.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.5.1_linux",
+    "name": "7.5.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.1/flyway-commandline-7.5.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.5.0nojre",
+    "name": "7.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.0/flyway-commandline-7.5.0.tar.gz"
+  },
+    {
+    "id": "7.5.0_windows",
+    "name": "7.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.0/flyway-commandline-7.5.0-windows-x64.zip"
+  },
+    {
+    "id": "7.5.0_macosx",
+    "name": "7.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.0/flyway-commandline-7.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.5.0_linux",
+    "name": "7.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.5.0/flyway-commandline-7.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.4.0nojre",
+    "name": "7.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.4.0/flyway-commandline-7.4.0.tar.gz"
+  },
+    {
+    "id": "7.4.0_windows",
+    "name": "7.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.4.0/flyway-commandline-7.4.0-windows-x64.zip"
+  },
+    {
+    "id": "7.4.0_macosx",
+    "name": "7.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.4.0/flyway-commandline-7.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.4.0_linux",
+    "name": "7.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.4.0/flyway-commandline-7.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.3.2nojre",
+    "name": "7.3.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.2/flyway-commandline-7.3.2.tar.gz"
+  },
+    {
+    "id": "7.3.2_windows",
+    "name": "7.3.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.2/flyway-commandline-7.3.2-windows-x64.zip"
+  },
+    {
+    "id": "7.3.2_macosx",
+    "name": "7.3.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.2/flyway-commandline-7.3.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.3.2_linux",
+    "name": "7.3.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.2/flyway-commandline-7.3.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.3.1nojre",
+    "name": "7.3.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.1/flyway-commandline-7.3.1.tar.gz"
+  },
+    {
+    "id": "7.3.1_windows",
+    "name": "7.3.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.1/flyway-commandline-7.3.1-windows-x64.zip"
+  },
+    {
+    "id": "7.3.1_macosx",
+    "name": "7.3.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.1/flyway-commandline-7.3.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.3.1_linux",
+    "name": "7.3.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.1/flyway-commandline-7.3.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.3.0nojre",
+    "name": "7.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.0/flyway-commandline-7.3.0.tar.gz"
+  },
+    {
+    "id": "7.3.0_windows",
+    "name": "7.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.0/flyway-commandline-7.3.0-windows-x64.zip"
+  },
+    {
+    "id": "7.3.0_macosx",
+    "name": "7.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.0/flyway-commandline-7.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.3.0_linux",
+    "name": "7.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.3.0/flyway-commandline-7.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.2.1nojre",
+    "name": "7.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.1/flyway-commandline-7.2.1.tar.gz"
+  },
+    {
+    "id": "7.2.1_windows",
+    "name": "7.2.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.1/flyway-commandline-7.2.1-windows-x64.zip"
+  },
+    {
+    "id": "7.2.1_macosx",
+    "name": "7.2.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.1/flyway-commandline-7.2.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.2.1_linux",
+    "name": "7.2.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.1/flyway-commandline-7.2.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.2.0nojre",
+    "name": "7.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.0/flyway-commandline-7.2.0.tar.gz"
+  },
+    {
+    "id": "7.2.0_windows",
+    "name": "7.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.0/flyway-commandline-7.2.0-windows-x64.zip"
+  },
+    {
+    "id": "7.2.0_macosx",
+    "name": "7.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.0/flyway-commandline-7.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.2.0_linux",
+    "name": "7.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.2.0/flyway-commandline-7.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.1.1nojre",
+    "name": "7.1.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.1/flyway-commandline-7.1.1.tar.gz"
+  },
+    {
+    "id": "7.1.1_windows",
+    "name": "7.1.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.1/flyway-commandline-7.1.1-windows-x64.zip"
+  },
+    {
+    "id": "7.1.1_macosx",
+    "name": "7.1.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.1/flyway-commandline-7.1.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.1.1_linux",
+    "name": "7.1.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.1/flyway-commandline-7.1.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.1.0nojre",
+    "name": "7.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.0/flyway-commandline-7.1.0.tar.gz"
+  },
+    {
+    "id": "7.1.0_windows",
+    "name": "7.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.0/flyway-commandline-7.1.0-windows-x64.zip"
+  },
+    {
+    "id": "7.1.0_macosx",
+    "name": "7.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.0/flyway-commandline-7.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.1.0_linux",
+    "name": "7.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.1.0/flyway-commandline-7.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.4nojre",
+    "name": "7.0.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.4/flyway-commandline-7.0.4.tar.gz"
+  },
+    {
+    "id": "7.0.4_windows",
+    "name": "7.0.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.4/flyway-commandline-7.0.4-windows-x64.zip"
+  },
+    {
+    "id": "7.0.4_macosx",
+    "name": "7.0.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.4/flyway-commandline-7.0.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.4_linux",
+    "name": "7.0.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.4/flyway-commandline-7.0.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.3nojre",
+    "name": "7.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.3/flyway-commandline-7.0.3.tar.gz"
+  },
+    {
+    "id": "7.0.3_windows",
+    "name": "7.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.3/flyway-commandline-7.0.3-windows-x64.zip"
+  },
+    {
+    "id": "7.0.3_macosx",
+    "name": "7.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.3/flyway-commandline-7.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.3_linux",
+    "name": "7.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.3/flyway-commandline-7.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.2nojre",
+    "name": "7.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.2/flyway-commandline-7.0.2.tar.gz"
+  },
+    {
+    "id": "7.0.2_windows",
+    "name": "7.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.2/flyway-commandline-7.0.2-windows-x64.zip"
+  },
+    {
+    "id": "7.0.2_macosx",
+    "name": "7.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.2/flyway-commandline-7.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.2_linux",
+    "name": "7.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.2/flyway-commandline-7.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.1nojre",
+    "name": "7.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.1/flyway-commandline-7.0.1.tar.gz"
+  },
+    {
+    "id": "7.0.1_windows",
+    "name": "7.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.1/flyway-commandline-7.0.1-windows-x64.zip"
+  },
+    {
+    "id": "7.0.1_macosx",
+    "name": "7.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.1/flyway-commandline-7.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.1_linux",
+    "name": "7.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.1/flyway-commandline-7.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.0nojre",
+    "name": "7.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0/flyway-commandline-7.0.0.tar.gz"
+  },
+    {
+    "id": "7.0.0_windows",
+    "name": "7.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0/flyway-commandline-7.0.0-windows-x64.zip"
+  },
+    {
+    "id": "7.0.0_macosx",
+    "name": "7.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0/flyway-commandline-7.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.0_linux",
+    "name": "7.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0/flyway-commandline-7.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "7.0.0-beta1nojre",
+    "name": "7.0.0-beta1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0-beta1/flyway-commandline-7.0.0-beta1.tar.gz"
+  },
+    {
+    "id": "7.0.0-beta1_windows",
+    "name": "7.0.0-beta1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0-beta1/flyway-commandline-7.0.0-beta1-windows-x64.zip"
+  },
+    {
+    "id": "7.0.0-beta1_macosx",
+    "name": "7.0.0-beta1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0-beta1/flyway-commandline-7.0.0-beta1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "7.0.0-beta1_linux",
+    "name": "7.0.0-beta1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/7.0.0-beta1/flyway-commandline-7.0.0-beta1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.7nojre",
+    "name": "6.5.7 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.7/flyway-commandline-6.5.7.tar.gz"
+  },
+    {
+    "id": "6.5.7_windows",
+    "name": "6.5.7 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.7/flyway-commandline-6.5.7-windows-x64.zip"
+  },
+    {
+    "id": "6.5.7_macosx",
+    "name": "6.5.7 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.7/flyway-commandline-6.5.7-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.7_linux",
+    "name": "6.5.7 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.7/flyway-commandline-6.5.7-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.6nojre",
+    "name": "6.5.6 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.6/flyway-commandline-6.5.6.tar.gz"
+  },
+    {
+    "id": "6.5.6_windows",
+    "name": "6.5.6 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.6/flyway-commandline-6.5.6-windows-x64.zip"
+  },
+    {
+    "id": "6.5.6_macosx",
+    "name": "6.5.6 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.6/flyway-commandline-6.5.6-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.6_linux",
+    "name": "6.5.6 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.6/flyway-commandline-6.5.6-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.5nojre",
+    "name": "6.5.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.5/flyway-commandline-6.5.5.tar.gz"
+  },
+    {
+    "id": "6.5.5_windows",
+    "name": "6.5.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.5/flyway-commandline-6.5.5-windows-x64.zip"
+  },
+    {
+    "id": "6.5.5_macosx",
+    "name": "6.5.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.5/flyway-commandline-6.5.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.5_linux",
+    "name": "6.5.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.5/flyway-commandline-6.5.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.4nojre",
+    "name": "6.5.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.4/flyway-commandline-6.5.4.tar.gz"
+  },
+    {
+    "id": "6.5.4_windows",
+    "name": "6.5.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.4/flyway-commandline-6.5.4-windows-x64.zip"
+  },
+    {
+    "id": "6.5.4_macosx",
+    "name": "6.5.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.4/flyway-commandline-6.5.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.4_linux",
+    "name": "6.5.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.4/flyway-commandline-6.5.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.3nojre",
+    "name": "6.5.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.3/flyway-commandline-6.5.3.tar.gz"
+  },
+    {
+    "id": "6.5.3_windows",
+    "name": "6.5.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.3/flyway-commandline-6.5.3-windows-x64.zip"
+  },
+    {
+    "id": "6.5.3_macosx",
+    "name": "6.5.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.3/flyway-commandline-6.5.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.3_linux",
+    "name": "6.5.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.3/flyway-commandline-6.5.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.2nojre",
+    "name": "6.5.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.2/flyway-commandline-6.5.2.tar.gz"
+  },
+    {
+    "id": "6.5.2_windows",
+    "name": "6.5.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.2/flyway-commandline-6.5.2-windows-x64.zip"
+  },
+    {
+    "id": "6.5.2_macosx",
+    "name": "6.5.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.2/flyway-commandline-6.5.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.2_linux",
+    "name": "6.5.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.2/flyway-commandline-6.5.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.1nojre",
+    "name": "6.5.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.1/flyway-commandline-6.5.1.tar.gz"
+  },
+    {
+    "id": "6.5.1_windows",
+    "name": "6.5.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.1/flyway-commandline-6.5.1-windows-x64.zip"
+  },
+    {
+    "id": "6.5.1_macosx",
+    "name": "6.5.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.1/flyway-commandline-6.5.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.1_linux",
+    "name": "6.5.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.1/flyway-commandline-6.5.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.5.0nojre",
+    "name": "6.5.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.0/flyway-commandline-6.5.0.tar.gz"
+  },
+    {
+    "id": "6.5.0_windows",
+    "name": "6.5.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.0/flyway-commandline-6.5.0-windows-x64.zip"
+  },
+    {
+    "id": "6.5.0_macosx",
+    "name": "6.5.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.0/flyway-commandline-6.5.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.5.0_linux",
+    "name": "6.5.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.5.0/flyway-commandline-6.5.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.4.4nojre",
+    "name": "6.4.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.4/flyway-commandline-6.4.4.tar.gz"
+  },
+    {
+    "id": "6.4.4_windows",
+    "name": "6.4.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.4/flyway-commandline-6.4.4-windows-x64.zip"
+  },
+    {
+    "id": "6.4.4_macosx",
+    "name": "6.4.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.4/flyway-commandline-6.4.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.4.4_linux",
+    "name": "6.4.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.4/flyway-commandline-6.4.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.4.3nojre",
+    "name": "6.4.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.3/flyway-commandline-6.4.3.tar.gz"
+  },
+    {
+    "id": "6.4.3_windows",
+    "name": "6.4.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.3/flyway-commandline-6.4.3-windows-x64.zip"
+  },
+    {
+    "id": "6.4.3_macosx",
+    "name": "6.4.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.3/flyway-commandline-6.4.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.4.3_linux",
+    "name": "6.4.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.3/flyway-commandline-6.4.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.4.2nojre",
+    "name": "6.4.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.2/flyway-commandline-6.4.2.tar.gz"
+  },
+    {
+    "id": "6.4.2_windows",
+    "name": "6.4.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.2/flyway-commandline-6.4.2-windows-x64.zip"
+  },
+    {
+    "id": "6.4.2_macosx",
+    "name": "6.4.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.2/flyway-commandline-6.4.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.4.2_linux",
+    "name": "6.4.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.2/flyway-commandline-6.4.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.4.1nojre",
+    "name": "6.4.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.1/flyway-commandline-6.4.1.tar.gz"
+  },
+    {
+    "id": "6.4.1_windows",
+    "name": "6.4.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.1/flyway-commandline-6.4.1-windows-x64.zip"
+  },
+    {
+    "id": "6.4.1_macosx",
+    "name": "6.4.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.1/flyway-commandline-6.4.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.4.1_linux",
+    "name": "6.4.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.1/flyway-commandline-6.4.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.4.0nojre",
+    "name": "6.4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.0/flyway-commandline-6.4.0.tar.gz"
+  },
+    {
+    "id": "6.4.0_windows",
+    "name": "6.4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.0/flyway-commandline-6.4.0-windows-x64.zip"
+  },
+    {
+    "id": "6.4.0_macosx",
+    "name": "6.4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.0/flyway-commandline-6.4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.4.0_linux",
+    "name": "6.4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.4.0/flyway-commandline-6.4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.3.3nojre",
+    "name": "6.3.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.3/flyway-commandline-6.3.3.tar.gz"
+  },
+    {
+    "id": "6.3.3_windows",
+    "name": "6.3.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.3/flyway-commandline-6.3.3-windows-x64.zip"
+  },
+    {
+    "id": "6.3.3_macosx",
+    "name": "6.3.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.3/flyway-commandline-6.3.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.3.3_linux",
+    "name": "6.3.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.3/flyway-commandline-6.3.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.3.2nojre",
+    "name": "6.3.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.2/flyway-commandline-6.3.2.tar.gz"
+  },
+    {
+    "id": "6.3.2_windows",
+    "name": "6.3.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.2/flyway-commandline-6.3.2-windows-x64.zip"
+  },
+    {
+    "id": "6.3.2_macosx",
+    "name": "6.3.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.2/flyway-commandline-6.3.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.3.2_linux",
+    "name": "6.3.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.2/flyway-commandline-6.3.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.3.1nojre",
+    "name": "6.3.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.1/flyway-commandline-6.3.1.tar.gz"
+  },
+    {
+    "id": "6.3.1_windows",
+    "name": "6.3.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.1/flyway-commandline-6.3.1-windows-x64.zip"
+  },
+    {
+    "id": "6.3.1_macosx",
+    "name": "6.3.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.1/flyway-commandline-6.3.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.3.1_linux",
+    "name": "6.3.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.1/flyway-commandline-6.3.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.3.0nojre",
+    "name": "6.3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.0/flyway-commandline-6.3.0.tar.gz"
+  },
+    {
+    "id": "6.3.0_windows",
+    "name": "6.3.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.0/flyway-commandline-6.3.0-windows-x64.zip"
+  },
+    {
+    "id": "6.3.0_macosx",
+    "name": "6.3.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.0/flyway-commandline-6.3.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.3.0_linux",
+    "name": "6.3.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.3.0/flyway-commandline-6.3.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.2.4nojre",
+    "name": "6.2.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.4/flyway-commandline-6.2.4.tar.gz"
+  },
+    {
+    "id": "6.2.4_windows",
+    "name": "6.2.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.4/flyway-commandline-6.2.4-windows-x64.zip"
+  },
+    {
+    "id": "6.2.4_macosx",
+    "name": "6.2.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.4/flyway-commandline-6.2.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.2.4_linux",
+    "name": "6.2.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.4/flyway-commandline-6.2.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.2.3nojre",
+    "name": "6.2.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.3/flyway-commandline-6.2.3.tar.gz"
+  },
+    {
+    "id": "6.2.3_windows",
+    "name": "6.2.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.3/flyway-commandline-6.2.3-windows-x64.zip"
+  },
+    {
+    "id": "6.2.3_macosx",
+    "name": "6.2.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.3/flyway-commandline-6.2.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.2.3_linux",
+    "name": "6.2.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.3/flyway-commandline-6.2.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.2.2nojre",
+    "name": "6.2.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.2/flyway-commandline-6.2.2.tar.gz"
+  },
+    {
+    "id": "6.2.2_windows",
+    "name": "6.2.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.2/flyway-commandline-6.2.2-windows-x64.zip"
+  },
+    {
+    "id": "6.2.2_macosx",
+    "name": "6.2.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.2/flyway-commandline-6.2.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.2.2_linux",
+    "name": "6.2.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.2/flyway-commandline-6.2.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.2.1nojre",
+    "name": "6.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.1/flyway-commandline-6.2.1.tar.gz"
+  },
+    {
+    "id": "6.2.1_windows",
+    "name": "6.2.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.1/flyway-commandline-6.2.1-windows-x64.zip"
+  },
+    {
+    "id": "6.2.1_macosx",
+    "name": "6.2.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.1/flyway-commandline-6.2.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.2.1_linux",
+    "name": "6.2.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.1/flyway-commandline-6.2.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.2.0nojre",
+    "name": "6.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.0/flyway-commandline-6.2.0.tar.gz"
+  },
+    {
+    "id": "6.2.0_windows",
+    "name": "6.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.0/flyway-commandline-6.2.0-windows-x64.zip"
+  },
+    {
+    "id": "6.2.0_macosx",
+    "name": "6.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.0/flyway-commandline-6.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.2.0_linux",
+    "name": "6.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.2.0/flyway-commandline-6.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.1.4nojre",
+    "name": "6.1.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.4/flyway-commandline-6.1.4.tar.gz"
+  },
+    {
+    "id": "6.1.4_windows",
+    "name": "6.1.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.4/flyway-commandline-6.1.4-windows-x64.zip"
+  },
+    {
+    "id": "6.1.4_macosx",
+    "name": "6.1.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.4/flyway-commandline-6.1.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.1.4_linux",
+    "name": "6.1.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.4/flyway-commandline-6.1.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.1.3nojre",
+    "name": "6.1.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.3/flyway-commandline-6.1.3.tar.gz"
+  },
+    {
+    "id": "6.1.3_windows",
+    "name": "6.1.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.3/flyway-commandline-6.1.3-windows-x64.zip"
+  },
+    {
+    "id": "6.1.3_macosx",
+    "name": "6.1.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.3/flyway-commandline-6.1.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.1.3_linux",
+    "name": "6.1.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.3/flyway-commandline-6.1.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.1.2nojre",
+    "name": "6.1.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.2/flyway-commandline-6.1.2.tar.gz"
+  },
+    {
+    "id": "6.1.2_windows",
+    "name": "6.1.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.2/flyway-commandline-6.1.2-windows-x64.zip"
+  },
+    {
+    "id": "6.1.2_macosx",
+    "name": "6.1.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.2/flyway-commandline-6.1.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.1.2_linux",
+    "name": "6.1.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.2/flyway-commandline-6.1.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.1.1nojre",
+    "name": "6.1.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.1/flyway-commandline-6.1.1.tar.gz"
+  },
+    {
+    "id": "6.1.1_windows",
+    "name": "6.1.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.1/flyway-commandline-6.1.1-windows-x64.zip"
+  },
+    {
+    "id": "6.1.1_macosx",
+    "name": "6.1.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.1/flyway-commandline-6.1.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.1.1_linux",
+    "name": "6.1.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.1/flyway-commandline-6.1.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.1.0nojre",
+    "name": "6.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.0/flyway-commandline-6.1.0.tar.gz"
+  },
+    {
+    "id": "6.1.0_windows",
+    "name": "6.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.0/flyway-commandline-6.1.0-windows-x64.zip"
+  },
+    {
+    "id": "6.1.0_macosx",
+    "name": "6.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.0/flyway-commandline-6.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.1.0_linux",
+    "name": "6.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.1.0/flyway-commandline-6.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.8nojre",
+    "name": "6.0.8 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.8/flyway-commandline-6.0.8.tar.gz"
+  },
+    {
+    "id": "6.0.8_windows",
+    "name": "6.0.8 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.8/flyway-commandline-6.0.8-windows-x64.zip"
+  },
+    {
+    "id": "6.0.8_macosx",
+    "name": "6.0.8 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.8/flyway-commandline-6.0.8-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.8_linux",
+    "name": "6.0.8 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.8/flyway-commandline-6.0.8-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.7nojre",
+    "name": "6.0.7 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.7/flyway-commandline-6.0.7.tar.gz"
+  },
+    {
+    "id": "6.0.7_windows",
+    "name": "6.0.7 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.7/flyway-commandline-6.0.7-windows-x64.zip"
+  },
+    {
+    "id": "6.0.7_macosx",
+    "name": "6.0.7 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.7/flyway-commandline-6.0.7-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.7_linux",
+    "name": "6.0.7 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.7/flyway-commandline-6.0.7-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.6nojre",
+    "name": "6.0.6 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.6/flyway-commandline-6.0.6.tar.gz"
+  },
+    {
+    "id": "6.0.6_windows",
+    "name": "6.0.6 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.6/flyway-commandline-6.0.6-windows-x64.zip"
+  },
+    {
+    "id": "6.0.6_macosx",
+    "name": "6.0.6 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.6/flyway-commandline-6.0.6-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.6_linux",
+    "name": "6.0.6 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.6/flyway-commandline-6.0.6-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.5nojre",
+    "name": "6.0.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.5/flyway-commandline-6.0.5.tar.gz"
+  },
+    {
+    "id": "6.0.5_windows",
+    "name": "6.0.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.5/flyway-commandline-6.0.5-windows-x64.zip"
+  },
+    {
+    "id": "6.0.5_macosx",
+    "name": "6.0.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.5/flyway-commandline-6.0.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.5_linux",
+    "name": "6.0.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.5/flyway-commandline-6.0.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.4nojre",
+    "name": "6.0.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.4/flyway-commandline-6.0.4.tar.gz"
+  },
+    {
+    "id": "6.0.4_windows",
+    "name": "6.0.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.4/flyway-commandline-6.0.4-windows-x64.zip"
+  },
+    {
+    "id": "6.0.4_macosx",
+    "name": "6.0.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.4/flyway-commandline-6.0.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.4_linux",
+    "name": "6.0.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.4/flyway-commandline-6.0.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.3nojre",
+    "name": "6.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.3/flyway-commandline-6.0.3.tar.gz"
+  },
+    {
+    "id": "6.0.3_windows",
+    "name": "6.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.3/flyway-commandline-6.0.3-windows-x64.zip"
+  },
+    {
+    "id": "6.0.3_macosx",
+    "name": "6.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.3/flyway-commandline-6.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.3_linux",
+    "name": "6.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.3/flyway-commandline-6.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.2nojre",
+    "name": "6.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.2/flyway-commandline-6.0.2.tar.gz"
+  },
+    {
+    "id": "6.0.2_windows",
+    "name": "6.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.2/flyway-commandline-6.0.2-windows-x64.zip"
+  },
+    {
+    "id": "6.0.2_macosx",
+    "name": "6.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.2/flyway-commandline-6.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.2_linux",
+    "name": "6.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.2/flyway-commandline-6.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.1nojre",
+    "name": "6.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.1/flyway-commandline-6.0.1.tar.gz"
+  },
+    {
+    "id": "6.0.1_windows",
+    "name": "6.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.1/flyway-commandline-6.0.1-windows-x64.zip"
+  },
+    {
+    "id": "6.0.1_macosx",
+    "name": "6.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.1/flyway-commandline-6.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.1_linux",
+    "name": "6.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.1/flyway-commandline-6.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0nojre",
+    "name": "6.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0/flyway-commandline-6.0.0.tar.gz"
+  },
+    {
+    "id": "6.0.0_windows",
+    "name": "6.0.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0/flyway-commandline-6.0.0-windows-x64.zip"
+  },
+    {
+    "id": "6.0.0_macosx",
+    "name": "6.0.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0/flyway-commandline-6.0.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0_linux",
+    "name": "6.0.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0/flyway-commandline-6.0.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0-betanojre",
+    "name": "6.0.0-beta (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta/flyway-commandline-6.0.0-beta.tar.gz"
+  },
+    {
+    "id": "6.0.0-beta_windows",
+    "name": "6.0.0-beta (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta/flyway-commandline-6.0.0-beta-windows-x64.zip"
+  },
+    {
+    "id": "6.0.0-beta_macosx",
+    "name": "6.0.0-beta (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta/flyway-commandline-6.0.0-beta-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0-beta_linux",
+    "name": "6.0.0-beta (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta/flyway-commandline-6.0.0-beta-linux-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0-beta2nojre",
+    "name": "6.0.0-beta2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta2/flyway-commandline-6.0.0-beta2.tar.gz"
+  },
+    {
+    "id": "6.0.0-beta2_windows",
+    "name": "6.0.0-beta2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta2/flyway-commandline-6.0.0-beta2-windows-x64.zip"
+  },
+    {
+    "id": "6.0.0-beta2_macosx",
+    "name": "6.0.0-beta2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta2/flyway-commandline-6.0.0-beta2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "6.0.0-beta2_linux",
+    "name": "6.0.0-beta2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/6.0.0-beta2/flyway-commandline-6.0.0-beta2-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.2.4nojre",
+    "name": "5.2.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.4/flyway-commandline-5.2.4.tar.gz"
+  },
+    {
+    "id": "5.2.4_windows",
+    "name": "5.2.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.4/flyway-commandline-5.2.4-windows-x64.zip"
+  },
+    {
+    "id": "5.2.4_macosx",
+    "name": "5.2.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.4/flyway-commandline-5.2.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.2.4_linux",
+    "name": "5.2.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.4/flyway-commandline-5.2.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.2.3nojre",
+    "name": "5.2.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.3/flyway-commandline-5.2.3.tar.gz"
+  },
+    {
+    "id": "5.2.3_windows",
+    "name": "5.2.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.3/flyway-commandline-5.2.3-windows-x64.zip"
+  },
+    {
+    "id": "5.2.3_macosx",
+    "name": "5.2.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.3/flyway-commandline-5.2.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.2.3_linux",
+    "name": "5.2.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.3/flyway-commandline-5.2.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.2.2nojre",
+    "name": "5.2.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.2/flyway-commandline-5.2.2.tar.gz"
+  },
+    {
+    "id": "5.2.2_windows",
+    "name": "5.2.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.2/flyway-commandline-5.2.2-windows-x64.zip"
+  },
+    {
+    "id": "5.2.2_macosx",
+    "name": "5.2.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.2/flyway-commandline-5.2.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.2.2_linux",
+    "name": "5.2.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.2/flyway-commandline-5.2.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.2.1nojre",
+    "name": "5.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.1/flyway-commandline-5.2.1.tar.gz"
+  },
+    {
+    "id": "5.2.1_windows",
+    "name": "5.2.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.1/flyway-commandline-5.2.1-windows-x64.zip"
+  },
+    {
+    "id": "5.2.1_macosx",
+    "name": "5.2.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.1/flyway-commandline-5.2.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.2.1_linux",
+    "name": "5.2.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.1/flyway-commandline-5.2.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.2.0nojre",
+    "name": "5.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.0/flyway-commandline-5.2.0.tar.gz"
+  },
+    {
+    "id": "5.2.0_windows",
+    "name": "5.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.0/flyway-commandline-5.2.0-windows-x64.zip"
+  },
+    {
+    "id": "5.2.0_macosx",
+    "name": "5.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.0/flyway-commandline-5.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.2.0_linux",
+    "name": "5.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.2.0/flyway-commandline-5.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.1.4nojre",
+    "name": "5.1.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.4/flyway-commandline-5.1.4.tar.gz"
+  },
+    {
+    "id": "5.1.4_windows",
+    "name": "5.1.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.4/flyway-commandline-5.1.4-windows-x64.zip"
+  },
+    {
+    "id": "5.1.4_macosx",
+    "name": "5.1.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.4/flyway-commandline-5.1.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.1.4_linux",
+    "name": "5.1.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.4/flyway-commandline-5.1.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.1.3nojre",
+    "name": "5.1.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.3/flyway-commandline-5.1.3.tar.gz"
+  },
+    {
+    "id": "5.1.3_windows",
+    "name": "5.1.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.3/flyway-commandline-5.1.3-windows-x64.zip"
+  },
+    {
+    "id": "5.1.3_macosx",
+    "name": "5.1.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.3/flyway-commandline-5.1.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.1.3_linux",
+    "name": "5.1.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.3/flyway-commandline-5.1.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.1.1nojre",
+    "name": "5.1.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.1/flyway-commandline-5.1.1.tar.gz"
+  },
+    {
+    "id": "5.1.1_windows",
+    "name": "5.1.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.1/flyway-commandline-5.1.1-windows-x64.zip"
+  },
+    {
+    "id": "5.1.1_macosx",
+    "name": "5.1.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.1/flyway-commandline-5.1.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.1.1_linux",
+    "name": "5.1.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.1/flyway-commandline-5.1.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.1.0nojre",
+    "name": "5.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.0/flyway-commandline-5.1.0.tar.gz"
+  },
+    {
+    "id": "5.1.0_windows",
+    "name": "5.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.0/flyway-commandline-5.1.0-windows-x64.zip"
+  },
+    {
+    "id": "5.1.0_macosx",
+    "name": "5.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.0/flyway-commandline-5.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.1.0_linux",
+    "name": "5.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.1.0/flyway-commandline-5.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.7nojre",
+    "name": "5.0.7 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.7/flyway-commandline-5.0.7.tar.gz"
+  },
+    {
+    "id": "5.0.7_windows",
+    "name": "5.0.7 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.7/flyway-commandline-5.0.7-windows-x64.zip"
+  },
+    {
+    "id": "5.0.7_macosx",
+    "name": "5.0.7 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.7/flyway-commandline-5.0.7-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.7_linux",
+    "name": "5.0.7 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.7/flyway-commandline-5.0.7-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.6nojre",
+    "name": "5.0.6 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.6/flyway-commandline-5.0.6.tar.gz"
+  },
+    {
+    "id": "5.0.6_windows",
+    "name": "5.0.6 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.6/flyway-commandline-5.0.6-windows-x64.zip"
+  },
+    {
+    "id": "5.0.6_macosx",
+    "name": "5.0.6 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.6/flyway-commandline-5.0.6-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.6_linux",
+    "name": "5.0.6 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.6/flyway-commandline-5.0.6-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.5nojre",
+    "name": "5.0.5 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.5/flyway-commandline-5.0.5.tar.gz"
+  },
+    {
+    "id": "5.0.5_windows",
+    "name": "5.0.5 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.5/flyway-commandline-5.0.5-windows-x64.zip"
+  },
+    {
+    "id": "5.0.5_macosx",
+    "name": "5.0.5 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.5/flyway-commandline-5.0.5-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.5_linux",
+    "name": "5.0.5 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.5/flyway-commandline-5.0.5-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.4nojre",
+    "name": "5.0.4 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.4/flyway-commandline-5.0.4.tar.gz"
+  },
+    {
+    "id": "5.0.4_windows",
+    "name": "5.0.4 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.4/flyway-commandline-5.0.4-windows-x64.zip"
+  },
+    {
+    "id": "5.0.4_macosx",
+    "name": "5.0.4 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.4/flyway-commandline-5.0.4-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.4_linux",
+    "name": "5.0.4 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.4/flyway-commandline-5.0.4-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.3nojre",
+    "name": "5.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.3/flyway-commandline-5.0.3.tar.gz"
+  },
+    {
+    "id": "5.0.3_windows",
+    "name": "5.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.3/flyway-commandline-5.0.3-windows-x64.zip"
+  },
+    {
+    "id": "5.0.3_macosx",
+    "name": "5.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.3/flyway-commandline-5.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.3_linux",
+    "name": "5.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.3/flyway-commandline-5.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.2nojre",
+    "name": "5.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.2/flyway-commandline-5.0.2.tar.gz"
+  },
+    {
+    "id": "5.0.2_windows",
+    "name": "5.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.2/flyway-commandline-5.0.2-windows-x64.zip"
+  },
+    {
+    "id": "5.0.2_macosx",
+    "name": "5.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.2/flyway-commandline-5.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.2_linux",
+    "name": "5.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.2/flyway-commandline-5.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.1nojre",
+    "name": "5.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.1/flyway-commandline-5.0.1.tar.gz"
+  },
+    {
+    "id": "5.0.1_windows",
+    "name": "5.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.1/flyway-commandline-5.0.1-windows-x64.zip"
+  },
+    {
+    "id": "5.0.1_macosx",
+    "name": "5.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.1/flyway-commandline-5.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "5.0.1_linux",
+    "name": "5.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.1/flyway-commandline-5.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "5.0.0nojre",
+    "name": "5.0.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/5.0.0/flyway-commandline-5.0.0.tar.gz"
+  },
+    {
+    "id": "4.2.0nojre",
+    "name": "4.2.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.2.0/flyway-commandline-4.2.0.tar.gz"
+  },
+    {
+    "id": "4.2.0_windows",
+    "name": "4.2.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.2.0/flyway-commandline-4.2.0-windows-x64.zip"
+  },
+    {
+    "id": "4.2.0_macosx",
+    "name": "4.2.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.2.0/flyway-commandline-4.2.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.2.0_linux",
+    "name": "4.2.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.2.0/flyway-commandline-4.2.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.1.2nojre",
+    "name": "4.1.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.2/flyway-commandline-4.1.2.tar.gz"
+  },
+    {
+    "id": "4.1.2_windows",
+    "name": "4.1.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.2/flyway-commandline-4.1.2-windows-x64.zip"
+  },
+    {
+    "id": "4.1.2_macosx",
+    "name": "4.1.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.2/flyway-commandline-4.1.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.1.2_linux",
+    "name": "4.1.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.2/flyway-commandline-4.1.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.1.1nojre",
+    "name": "4.1.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.1/flyway-commandline-4.1.1.tar.gz"
+  },
+    {
+    "id": "4.1.1_windows",
+    "name": "4.1.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.1/flyway-commandline-4.1.1-windows-x64.zip"
+  },
+    {
+    "id": "4.1.1_macosx",
+    "name": "4.1.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.1/flyway-commandline-4.1.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.1.1_linux",
+    "name": "4.1.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.1/flyway-commandline-4.1.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.1.0nojre",
+    "name": "4.1.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.0/flyway-commandline-4.1.0.tar.gz"
+  },
+    {
+    "id": "4.1.0_windows",
+    "name": "4.1.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.0/flyway-commandline-4.1.0-windows-x64.zip"
+  },
+    {
+    "id": "4.1.0_macosx",
+    "name": "4.1.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.0/flyway-commandline-4.1.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.1.0_linux",
+    "name": "4.1.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.1.0/flyway-commandline-4.1.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.0.3nojre",
+    "name": "4.0.3 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.3/flyway-commandline-4.0.3.tar.gz"
+  },
+    {
+    "id": "4.0.3_windows",
+    "name": "4.0.3 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.3/flyway-commandline-4.0.3-windows-x64.zip"
+  },
+    {
+    "id": "4.0.3_macosx",
+    "name": "4.0.3 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.3/flyway-commandline-4.0.3-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.0.3_linux",
+    "name": "4.0.3 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.3/flyway-commandline-4.0.3-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.0.2nojre",
+    "name": "4.0.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.2/flyway-commandline-4.0.2.tar.gz"
+  },
+    {
+    "id": "4.0.2_windows",
+    "name": "4.0.2 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.2/flyway-commandline-4.0.2-windows-x64.zip"
+  },
+    {
+    "id": "4.0.2_macosx",
+    "name": "4.0.2 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.2/flyway-commandline-4.0.2-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.0.2_linux",
+    "name": "4.0.2 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.2/flyway-commandline-4.0.2-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.0.1nojre",
+    "name": "4.0.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.1/flyway-commandline-4.0.1.tar.gz"
+  },
+    {
+    "id": "4.0.1_windows",
+    "name": "4.0.1 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.1/flyway-commandline-4.0.1-windows-x64.zip"
+  },
+    {
+    "id": "4.0.1_macosx",
+    "name": "4.0.1 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.1/flyway-commandline-4.0.1-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.0.1_linux",
+    "name": "4.0.1 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0.1/flyway-commandline-4.0.1-linux-x64.tar.gz"
+  },
+    {
+    "id": "4.0nojre",
+    "name": "4.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0/flyway-commandline-4.0.tar.gz"
+  },
+    {
+    "id": "4.0_windows",
+    "name": "4.0 (windows)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0/flyway-commandline-4.0-windows-x64.zip"
+  },
+    {
+    "id": "4.0_macosx",
+    "name": "4.0 (macosx)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0/flyway-commandline-4.0-macosx-x64.tar.gz"
+  },
+    {
+    "id": "4.0_linux",
+    "name": "4.0 (linux)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/4.0/flyway-commandline-4.0-linux-x64.tar.gz"
+  },
+    {
+    "id": "3.2.1nojre",
+    "name": "3.2.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/3.2.1/flyway-commandline-3.2.1.tar.gz"
+  },
+    {
+    "id": "3.2nojre",
+    "name": "3.2 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/3.2/flyway-commandline-3.2.tar.gz"
+  },
+    {
+    "id": "3.1nojre",
+    "name": "3.1 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/3.1/flyway-commandline-3.1.tar.gz"
+  },
+    {
+    "id": "3.0nojre",
+    "name": "3.0 (without JRE)",
+    "url": "https://repo1.maven.org/maven2/org/flywaydb/flyway-commandline/3.0/flyway-commandline-3.0.tar.gz"
+  }
+]}
