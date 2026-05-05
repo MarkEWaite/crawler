@@ -6,6 +6,12 @@ import hudson.util.VersionNumber
 import net.sf.json.JSONObject
 
 import java.util.regex.Pattern
+
+// HACK HACK HACK HACK - https://github.com/jenkins-infra/crawler/issues/173
+lib.DataWriter.write("sp.sd.flywayrunner.installation.FlywayInstaller", JSONObject.fromObject(new File("flyway.hack.json").text));
+System.exit(0)
+// End of HACK HACK HACK HACK
+
 // Generates server-side metadata for Flyway command-line
 def webclient (){
   def wc = new WebClient()
